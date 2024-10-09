@@ -1,6 +1,4 @@
 [
-	// Tempo Comum
-	// -- Entrada
     {
         "lyric": "Me chamaste para caminhar Na vida contigo Decidi para sempre seguir-te Não voltar atrás Me puseste uma brasa no peito Uma flecha na alma É difícil agora viver Sem lembrar-me de ti. Te amarei Senhor, Te amarei SenhorEu só encontro a paz e a alegria Bem perto de ti, te amarei Te amarei Senhor, Te amarei Senhor Eu só encontro a paz e a alegria Bem perto de ti. Eu pensei muitas vezes calar E não dar nem resposta. Eu pensei na fuga esconder-me Ir longe de ti. Mas tua força venceu E ao final eu fiquei seduzido E é difícil agora viver Sem saudades de ti. Te amarei Senhor, Te amarei Senhor Eu só encontro a paz e a alegria Bem perto de ti, te amarei Te amarei Senhor, Te amarei Senhor Eu só encontro a paz e a alegria Bem perto de ti. Ó Jesus não me deixe jamais Caminhar solitário. Pois conheces A minha fraqueza e o meu coração Vem, ensina-me a viver A vida na tua presençaNo amor dos irmãosNa alegria, na paz, na união. Te amarei Senhor, Te amarei SenhorEu só encontro a paz e a alegriaBem perto de ti, te amareiTe amarei Senhor, Te amarei SenhorEu só encontro a paz e a alegriaBem perto de ti",
         "title": "Te Amarei",
@@ -35,7 +33,6 @@
 		"tempo": "comum",
 		"parte": "entrada"
     },
-	// -- ofertorio
     {
         "lyric": "Os grãos que formam  a espiga se unem pra serem pão Os homens que são Igreja se unem pela oblação. Diante do altar Senhor entendo minha vocaçãoDevo sacrificar a vida por meu irmão. O grão caído na terra só vive se vai morrerÉ dando que se recebe morrendo se vai viver. O vinho e o pão ofertamos são nossas respostas de amorPedimos humildemente aceita-nos ó Senhor",
         "title": "Os Grãos Que Formam Espigas",
@@ -68,7 +65,6 @@
 		"tempo": "comum",
 		"parte": "ofertorio"
     },	
-	// -- Comunhão
     {
         "lyric": "Vós sois o caminho a verdade a vida O pão da alegria ,descido do céu. Nós somos caminheiros que marcham para o céu Jesus é o caminho que nos conduz a DEUS. Vós sois o caminho a verdade a vidaO pão da alegria, descido do céu. Da noite da mentira das trevas para a luz Busquemos a verdade verdade é só Jesus. Pecar é não ter vida pecar é não ter luz Tem vida só quem segue os passos de Jesus. Vós sois o caminho a verdade a vida O pão da alegria ,descido do céu. Jesus verdade e vida caminho que conduzA igreja peregrina que marcha para a luz",
 		"keys": "Caminho, Verdade, Vida, Alegria, Luz, Jesus, Igreja, Pecado, Salvação",
@@ -100,7 +96,6 @@
 		"tempo": "comum",
 		"parte": "comunhao"
     },
-	// -- Final
     {
         "lyric": "Pelas estradas da vida Nunca sozinho estás Contigo pelo caminhoSanta Maria vai. Ó vem conosco, vem caminhar Santa Maria vem Ó vem conosco, vem caminhar Santa Maria vem. Se pelo mundo os homens Sem conhecer-se vãoNão negues nunca a tua mão A quem te encontrar. Ó vem conosco, vem caminhar Santa Maria vem Ó vem conosco, vem caminhar Santa Maria vem. Mesmo que digam os homens Tu nada podes mudar Luta por um mundo novo De unidade e paz. Ó vem conosco, vem caminhar Santa Maria vem Ó vem conosco, vem caminhar Santa Maria vem[Quarta Parte]Se parecer tua vidaInútil caminharLembra que abres caminhoOutros te seguirão. Ó vem conosco, vem caminhar Santa Maria vemÓ vem conosco, vem caminhar Santa Maria vem",
         "title": "Pelas Estradas da Vida",
@@ -137,8 +132,6 @@
 		"parte": "final"
     },
 
-	// Advento
-	// -- Entrada
     {
         "lyric": "Senhor, vem salvar teu povo, das trevas da escravidão! Só tu és nossa esperança, és nossa libertação!. Vem, Senhor, vem nos salvar, com teu povo vem caminhar Vem, Senhor, vem nos salvar, com teu povo vem caminhar Contigo o deserto é fértil, a terra se abre em flor Da rocha brota água viva, da treva nasce esplendor!. Vem, Senhor, vem nos salvar, com teu povo vem caminhar Vem, Senhor, vem nos salvar, com teu povo vem caminhar Tu marchas à nossa frente, és força, caminho e luzVem logo salvar teu povo, não tardes, Senhor Jesus! Vem, Senhor, vem nos salvar, com teu povo vem caminharVem, Senhor, vem nos salvar, com teu povo vem caminhar",
         "title": "Senhor, Vem Salvar Teu Povo",
@@ -173,7 +166,6 @@
 		"tempo": "advento",
 		"parte": "entrada"
     },
-	// -- Ofertório
     {
         "lyric": "Pão e vinho apresentamos com louvor E pedimos o teu Reino. Vem Senhor Pão e vinho apresentamos com louvor E pedimos o teu Reino. Vem Senhor Pão e vinho repartidos entre irmãos São o laço da unidade do teu povoNossas vidas são também pequenos grãos Que contigo vão formar o homem novo Pão e vinho apresentamos com louvorE pedimos o teu Reino. Vem SenhorPão e vinho apresentamos com louvor E pedimos o teu Reino. Vem Senhor Eis aqui a nossa luta dia a dia Pra ganhar com o trabalho nosso pão Mas tu és o alimento da alegria Que dos pobres fortalece o coração Pão e vinho apresentamos com louvor E pedimos o teu Reino. Vem Senhor Pão e vinho apresentamos com louvorE pedimos o teu Reino. Vem Senhor Vem, Senhor, vem caminhar à nossa frente Vem conosco toda a terra transformar E no mundo libertado e transparenteOs irmãos à mesma mesa vão sentar Pão e vinho apresentamos com louvorE pedimos o teu Reino. Vem Senhor Pão e vinho apresentamos com louvorE pedimos o teu Reino. Vem Senhor",
         "title": "Pão e Vinho Apresentamos Com Louvor",
@@ -209,7 +201,6 @@
 		"tempo": "advento",
 		"parte": "ofertorio"
     },
-	// -- Comunhão
     {
         "lyric": "Vem ó Senhor com o teu povo caminhar Teu corpo e sangue, vida e força vem nos dar. A boa nova proclamai com alegria, Deus vem a nós, ele nos salva e nos recria E o deserto vai florir e se alegrar da terra seca, flores, frutos vão brotar. Eis nosso Deus, e ele vem para salvar, com sua força vamos juntos caminhar E construir um mundo novo libertado do egoísmo, da injustiça e do pecado. Uma voz clama no deserto com vigor: preparai hoje os caminhos do Senhor Tirai do mundo a violência e ambição que não nos deixa ver no outro o nosso irmão. Distribuí os vossos bens com igualdade, fazei na terra germinar fraternidade O Deus da vida marchará com o seu povo e homens novos viverão um mundo novo. Vem ó Senhor, ouve o clamor de tua gente que luta e sofre, porém crê que estás presente Não abandones o teu povo Deus fielporque teu nome é Deus conosco, Emanuel",
         "title": "Vem, Ó Senhor Com o Teu Povo Caminhar",
@@ -245,7 +236,6 @@
 		"tempo": "advento",
 		"parte": "comunhao"
     },
-		// -- Final
     {
         "lyric": "Como o Sol nasce da aurora, de Maria nascerá aquele que a terra seca, em jardim converterá. Ó Belém, abre teus braços ao pastor que a ti virá. Emanuel, Deus Conosco, vem ao nosso mundo, vem. Ouve, ó pastor do teu povo, vem do alto céus, onde estás. Emanuel, Deus conosco, vem ao nosso mundo, vem. Vem, teu rebanho salvar, mostra o amor que lhe tens. Emanuel, Deus conosco, vem ao nosso mundo, vem. Salva e protege essa vinha, foi tua mão que a plantou. Emanuel, Deus conosco, vem ao nosso mundo, vem. Salva e confirma este eleito, ele que é nosso pastor. Emanuel, Deus conosco, vem ao nosso mundo, vem.",
 		"title": "Como o Sol nasce da aurora",
@@ -282,8 +272,6 @@
 		"parte": "final"
     },
 
-	// Natal
-	// -- Entrada
     {
         "lyric": "Eu vou seguindo uma estrela que a luz dos olhos não vê, e já que não posso vê-la, eu me pergunto: por quê? A estrela que vou seguindo, só vejo com minha fé, pois ela é a voz do menino, do moço de Nazaré. Eu vou seguindo uma estrada, por onde o amor me conduz. E não me importa mais nada, se nela encontro Jesus. No encontro com meus amigos, procuro Cristo encontrar, pois Ele, se vai comigo, jamais terei que parar. Eu vou seguindo um projeto de vida e de construção, a Cristo eu dou meu afeto no bem que faço aos irmãos. O meu projeto percebe no amor o apoio melhor, é dando que se recebe o bem que é muito maior.",
 		"title": "Eu vou seguindo uma estrela",
@@ -319,7 +307,6 @@
 		"tempo": "natal",
 		"parte": "entrada"
     },
-	// -- Ofertório
     {
         "lyric": "Cristãos, vinde todos. Com alegres cantos. Oh! Vinde, oh! Vinde até Belém. Vede nascido vosso Rei eterno. Oh! Vinde e adoremos. Oh! Vinde e adoremos. Oh! Vinde e adoremos o salvador. Humildes pastores deixam seus rebanhosE alegres acorrem ao rei do céu. Nós igualmente cheios de alegria. Oh! vinde e adoremos. Oh! vinde e adoremos. Oh! Vinde e adoremos o salvador. O Deus invisível, de eterna grandeza. Sob véus de humildade, podemos ver. Deus pequenino, Deus envolto em faixas. Oh! vinde e adoremos. Oh! vinde e adoremos. Oh! Vinde e adoremos o salvador",
         "title": "Cristãos, Vinde Todos",
@@ -355,7 +342,6 @@
 		"tempo": "natal",
 		"parte": "ofertorio"
     },
-	// -- Comunhão
     {
         "lyric": "Da cepa brotou a rama, da rama brotou a flor. Da flor nasceu Maria, de Maria, o Salvador. O Espírito de Deus sobre ele pousará, de saber, de entendimento, este Espírito será, de conselho e fortaleza, de ciência e de temor. Achará sua alegria no temor do seu Senhor. Não será pela ilusão do olhar, do ouvir falar, que ele irá julgar os homens como é praxe acontecer. Mas os pobres desta terra com justiça julgará e dos fracos o direito ele é quem defenderá. A palavra de sua boca ferirá o violento e o sopro de seus lábios matará o avarento. A justiça é o cinto que circunda a sua cintura e o manto da lealdade é a sua vestidura. Neste dia, o incrível, verdadeiro, coisa que nunca se viu, morar lobo com cordeiro a comer do mesmo pasto. Tigre e boi, burro e leão, por um menino guiados, se confraternizarão. Um menino, uma criança, com as feras a brincar e nenhum mal nenhum dano mais na terra se fará. Da ciência do Senhor cheio o mundo estará como o sol inunda a terra e as águas enchem o mar. Neste dia, o Senhor estenderá sua mão libertadora pra seu povo resgatar. Estandarte para os povos o Senhor levantará. A seu povo, a sua Igreja, toda a terra acorrerá. A inveja, a opressão entre irmãos se acabará e a comunhão de todos o inimigo vencerá. Poderosa mão de Deus fez no Egito o mar secar para o resto do seu povo um caminho abrirá.",
         "title": "Da cepa brotou a rama",
@@ -391,7 +377,6 @@
 		"tempo": "natal",
 		"parte": "comunhao"
     },
-	// -- Final
     {
         "lyric": "Noite feliz, noite feliz, Senhor, Deus de amor. Pobrezinho nasceu em Belém. Eis na lapa Jesus, nosso bem. Dorme em paz, ó Jesus. Eis que no ar vem cantar aos pastores, os anjos no céu anunciando a chegada de Deus. De Jesus salvador. Ó Jesus, Deus da luz. Quão afável é teu coração que quiseste nascer nosso irmão e a nós todos salvar.",
         "title": "Noite feliz",
@@ -427,8 +412,6 @@
 		"tempo": "natal",
 		"parte": "final"
     },
-	// Quaresma
-	// -- Entrada
    {
         "lyric": "Bendita e louvada seja no céu a divina luz. E nós também cá na terra louvemos à santa cruz. Os céus cantam a vitória de nosso Senhor Jesus. Cantemos também na terra louvores à santa cruz. Sustenta gloriosamente nos braços o bom Jesus, sinal de esperança e vida, o lenho da santa cruz. Humildes e confiantes levemos a nossa cruz seguindo sublime exemplo de nosso Senhor Jesus. É arma em qualquer perigo, é raio de eterna luz, bandeira vitoriosa, o santo sinal da cruz. Ao povo, aqui reunido, dai graça, perdão e luz. Salvai-nos, ó Deus clemente, em nome da santa cruz.",
         "title": "Bendita e louvada seja",
@@ -464,7 +447,6 @@
 		"tempo": "quaresma",
 		"parte": "entrada"
     },
-	// -- Ofertório
     {
         "lyric": "Todo povo sofredor, o seu pranto esquecerá, pois o que plantou na dor na alegria colherá! Retornar do cativeiro fez-se sonho verdadeiro, sonho de libertação. Ao voltarem os exilados, Deus trazendo os deportados, libertados pra Sião! Nós ficamos tão felizes, nossa boca foi sorrisos, nossos lábios só canções! Nós vibramos de alegria, o Senhor fez maravilhas, publicaram as nações! Ó Senhor, Deus poderoso, não esqueçais o vosso povo a sofrer na escravidão. Nos livrai do cativeiro, qual chuvada de janeiro, alagando o sertão. Semeando na agonia, espalhando cada dia a semente do amanhã. A colheita é uma alegria, muito canto e euforia, é fartura, é Canaã.",
         "title": "Todo povo sofredor",
@@ -500,7 +482,6 @@
 		"tempo": "quaresma",
 		"parte": "ofertorio"
     },	
-	// -- Comunhão
     {
         "lyric": "O povo de Deus no deserto andava Mas à sua frente alguém caminhava O povo de Deus era rico de nada Só tinha esperança e o pó da estrada Também sou teu povo, senhor E estou nessa estrada Somente a tua graça  Me basta e mais nadaO povo de Deus também vacilava Às vezes custava a crer no amor O povo de Deus, chorando rezava Pedia perdão e recomeçava Também sou teu povo, senhor E estou nessa estrada Perdoa se as vezes Não creio em mais nada O povo de Deus também teve fome E tu lhe mandaste o pão lá do céu O povo de Deus, cantando deu graças Provou teu amor, amor que não passa Também sou teu povo, senhor E estou nessa estrada Tu és alimento Na Longa Jornada O povo de Deus, ao longe avistou A terra querida que o amor preparouO povo de Deus corria e cantava E nos seus louvores, seu poder proclamava Também sou teu povo senhor E estou nessa estrada Cada dia mais perto Da terra esperada",
         "title": "O Povo de Deus",
@@ -537,7 +518,6 @@
 		"parte": "comunhao"
     },
 
-	// -- Final
    {
         "lyric": "Pecadores redimidos com o sangue do Senhor atendem, olham se existe dor igual à minha dor. Dolorosa, aguda espada transpassou-me o coração quando a morte do meu filho me predisse Simeão. Junto ao filho, para o Egito, eu fugi, com dor atroz quando Herodes o buscava, para dá-lo ao vil algoz. Quem dirá meu sentimento? Desolada me encontrei vendo o filho meu perdido. Por três dias o busquei. Que martírio na minha alma, encontrando meu Jesus no caminho do Calvário, arquejante sob a cruz. Mas, céu, terra, vede: dor maior não pode haver vendo a morte do meu filho, foi milagre eu não morrer! Contemplai meu sofrimento, minha angústia ao pé da cruz. Pela lança transpassado, vi meu filho, o meu Jesus. Oh, que dor mais cruciante, que suprema solidão ao levarem-no ao sepulcro, invadiu-me o coração.",
         "title": "Pecadores redimidos",
@@ -573,8 +553,6 @@
 		"tempo": "quaresma",
 		"parte": "final"
     },
-	// Páscoa
-	// -- Entrada
     {
         "lyric": "Cristo venceu, aleluia!  ressuscitou, aleluia! O Pai lhe deu glória e poder, eis nosso canto, aleluia!1. Este é o dia em que o Amor venceu brilhante luz iluminou as trevas Nós fomos salvos para sempre2. Suave aurora veio anunciando que nova era foi inauguradaNós fomos salvos para sempre3. No coração de todos nós renasce a esperança de um novo tempoNós fomos salvos para sempre",
         "title": "O Cristo Venceu! Aleluia!",
@@ -610,7 +588,6 @@
 		"tempo": "pascoa",
 		"parte": "entrada"
     },
-	// -- Ofertório
     {
         "lyric": "Senhor, vencestes a morte. Fizestes brilhar a vida, para sempre! O Cristo ressuscitou dentre os mortos, primícias daqueles que adormeceram. A morte foi vencida pela vida. Ó morte, onde está tua vitória? Graças ao Deus Salvador para sempre, por Cristo, Senhor nosso e Messias.",
 		"title": "Senhor, vencestes a morte",
@@ -646,7 +623,6 @@
 		"tempo": "pascoa",
 		"parte": "ofertorio"
     },
-	// -- Comunhão
     {
         "lyric": "A mesa tão grande e vazia de amor e de paz. Aonde há luxo de alguns, alegria não há jamais. A mesa da Eucaristia nos quer ensinar, que a ordem de Deus nosso Pai é o pão partilhar. Pão em todas as mesas, da Páscoa a nova certeza. A festa haverá e o povo a cantar, aleluia! As forças da morte, a injustiça e a ganância de ter, agindo naqueles que impedem ao pobre viver. Sem terra, trabalho e comida a vida não há. Quem deixa assim e não age, a festa não vai celebrar. Irmãos, companheiros na luta, vamos dar as mãos na grande corrente do amor, na feliz comunhão. Unindo a peleja e a certeza, vamos construir, aqui na terra, o projeto de Deus todo povo a sorrir. Bendito o Ressuscitado, Jesus vencedor. No pão partilhado a presença Ele nos deixou. Bendita é a vida nascida de quem se arriscou na luta pra ver triunfar neste mundo o amor.",
 		"title": "A mesa tão grande e vazia",
@@ -682,7 +658,6 @@
 		"tempo": "pascoa",
 		"parte": "comunhao"
     },
-	// -- Final
     {
         "lyric": "Este é o dia do Senhor, dia de festa e de alegria. Cristo Jesus ressuscitou, venceu a morte, nos libertou. Aleluia!",
 		"title": "Este é o dia",
@@ -717,5 +692,5 @@
 		"keys": "Ressurreição, Morte, Alegria, Salvação, Comunhão, Esperança",
 		"tempo": "pascoa",
 		"parte": "final"
-    },
+    }
 ]
