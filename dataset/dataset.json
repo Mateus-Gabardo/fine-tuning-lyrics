@@ -2,695 +2,1597 @@
     {
         "lyric": "Me chamaste para caminhar Na vida contigo Decidi para sempre seguir-te Não voltar atrás Me puseste uma brasa no peito Uma flecha na alma É difícil agora viver Sem lembrar-me de ti. Te amarei Senhor, Te amarei SenhorEu só encontro a paz e a alegria Bem perto de ti, te amarei Te amarei Senhor, Te amarei Senhor Eu só encontro a paz e a alegria Bem perto de ti. Eu pensei muitas vezes calar E não dar nem resposta. Eu pensei na fuga esconder-me Ir longe de ti. Mas tua força venceu E ao final eu fiquei seduzido E é difícil agora viver Sem saudades de ti. Te amarei Senhor, Te amarei Senhor Eu só encontro a paz e a alegria Bem perto de ti, te amarei Te amarei Senhor, Te amarei Senhor Eu só encontro a paz e a alegria Bem perto de ti. Ó Jesus não me deixe jamais Caminhar solitário. Pois conheces A minha fraqueza e o meu coração Vem, ensina-me a viver A vida na tua presençaNo amor dos irmãosNa alegria, na paz, na união. Te amarei Senhor, Te amarei SenhorEu só encontro a paz e a alegriaBem perto de ti, te amareiTe amarei Senhor, Te amarei SenhorEu só encontro a paz e a alegriaBem perto de ti",
         "title": "Te Amarei",
-		"keys": "Vocação, Caminho, Paz, Alegria, Coração, Amor, Fraqueza, Irmãos, União, Jesus",
-		"tempo": "comum",
-		"parte": "entrada"
+        "keys": [
+            "Caminho",
+            "Paz",
+            "Alegria",
+            "Coração",
+            "Amor",
+            "Irmãos",
+            "Jesus"
+        ],
+        "tempo": "comum",
+        "parte": "entrada"
     },
-	{
+    {
         "lyric": "Senhor, quem entrará no santuário pra Te louvar? Senhor, quem entrará no santuário pra Te louvar? Quem tem as mãos limpas e o coração puro Quem não é vaidoso e sabe amar Quem tem as mãos limpas e o coração puro Quem não é vaidoso e sabe amar Senhor, eu quero entrar no santuário pra Te louvar Senhor, eu quero entrar no santuário pra Te louvar Ó, dá-me mãos limpas, e um coração puro Arranca a vaidade, ensina-me amar Ó, dá-me mãos limpas, e um coração puro Arranca a vaidade, ensina-me amar Senhor, já posso entrar no santuário pra Te louvar? Senhor, já posso entrar no santuário pra Te louvar? Teu sangue me lava, Teu fogo me queima O Espírito Santo inunda meu ser Teu sangue me lava, Teu fogo me queima O Espírito Santo inunda meu se",
         "title": "Senhor, quem entrará",
-		"keys": "Santuário, Louvor a Deus, Coração, Pureza, Espírito Santo, Fogo, Amor, Vaidade", 
-		"tempo": "comum",
-		"parte": "entrada"
+        "keys": [
+            "Louvor a Deus",
+            "Coração",
+            "Pureza",
+            "Espírito Santo",
+            "Fogo",
+            "Amor"
+        ],
+        "tempo": "comum",
+        "parte": "entrada"
     },
-	{
+    {
         "lyric": "Eis-me aqui, Senhor Eis-me aqui, Senhor Pra fazer Tua vontade, pra viver no Teu amor Pra fazer Tua vontade, pra viver no Teu amor Eis-me aqui, Senhor.O Senhor é o Pastor que me conduz Por caminho nunca visto me enviou Sou chamado a ser fermento, sal e luz E por isso respondi: Aqui estou. Ele pôs em minha boca uma canção Me ungiu como profeta e trovador Da história e da vida do meu povo E por isso respondi: Aqui estou. Ponho a minha confiança no Senhor a esperança, sou chamado a ser fnal eu ouvido se inclinou ao meu clamor  por isso respondi: Aqui estou.",
-		"keys": "Vocação, Caminho, Amor, Esperança, Confiança, Missão, Oração, Jesus, Comunhão",
-		"tempo": "comum",
-		"parte": "entrada"
+        "keys": [
+            "Caminho",
+            "Amor",
+            "Esperança",
+            "Missão",
+            "Oração",
+            "Jesus",
+            "Comunhão"
+        ],
+        "tempo": "comum",
+        "parte": "entrada"
     },
     {
         "lyric": "Quem nos separará? Quem vai nos separar Do amor de Cristo? Quem nos separará? Se ele é por nós Quem será, quem será contra nós? Quem vai nos separar Do amor de Cristo, quem será? Nem a espada ou perigo Nem os erros do meu irmão Nenhuma das criaturas Nem a condenação. Quem nos separará? Quem vai nos separar Do amor de Cristo? Quem nos separará? Se ele é por nós Quem será, quem será contra nós? Quem vai nos separarDo amor de Cristo, quem será? Nem a vida, nem a morte A tristeza ou a aflição Nem o passado, nem o presenteO futuro, nem opressão. Quem nos separará? Quem vai nos separar Do amor de Cristo? Quem nos separará?Se ele é por nós Quem será, quem será contra nós? Quem vai nos separarDo amor de Cristo, quem será? Nem as alturas, nem os abismos Nem tampouco a perseguição Nem a angústia, a dor, a fome Nem a tribulação. Quem nos separará? Quem vai nos separar Do amor de Cristo? Quem nos separará? Se ele é por nós Quem será, quem será contra nós?Quem vai nos separarDo amor de Cristo, quem será?",
         "title": "Quem Nos Separará?",
-		"keys": "Amor, Cristo, Perseguição, Separação, Esperança, Oração, Vida, Morte, Angústia, Comunidade",
-		"tempo": "comum",
-		"parte": "entrada"
+        "keys": [
+            "Amor",
+            "Cristo",
+            "Perseguição",
+            "Esperança",
+            "Oração",
+            "Morte",
+            "Comunidade"
+        ],
+        "tempo": "comum",
+        "parte": "entrada"
     },
     {
         "lyric": "Um dia escutei Teu chamado Divino recado batendo no coração Deixei deste mundo as promessas E fui bem depressa no rumo da Tua mão Tu és a razão da jornada Tu és minha estrada, meu guia, meu fim No grito que vem do Teu povo Te escuto de novo, chamando por mim Tu és a razão da jornada Tu és minha estrada, meu guia, meu fim No grito que vem do Teu povo Te escuto de novo, chamando por mim Os anos passaram ligeiro Me fiz um obreiro do reino de paz e amor Nos mares do mundo navego E às redes me entrego Tornei-me Teu pescador Tu és a razão da jornada Tu és minha estrada, meu guia, meu fim No grito que vem do Teu povo Te escuto de novo, chamando por mim Tu és a razão da jornada Tu és minha estrada, meu guia, meu fim No grito que vem do Teu povo Te escuto de novo, chamando por mim Embora tão fraco e pequeno Caminho sereno com a força que vem de Ti A cada momento que passa Revivo esta graça De ser Teu sinal aqui",
-		"title": "Um dia escutei Teu chamado",
-		"keys": "Vocação, Caminho, Chamado, Obra, Paz, Amor, Misericórdia, Jesus, Irmãos, Comunhão",
-		"tempo": "comum",
-		"parte": "entrada"
+        "title": "Um dia escutei Teu chamado",
+        "keys": [
+            "Caminho",
+            "Paz",
+            "Amor",
+            "Misericórdia",
+            "Jesus",
+            "Irmãos",
+            "Comunhão"
+        ],
+        "tempo": "comum",
+        "parte": "entrada"
     },
     {
         "lyric": "Os grãos que formam  a espiga se unem pra serem pão Os homens que são Igreja se unem pela oblação. Diante do altar Senhor entendo minha vocaçãoDevo sacrificar a vida por meu irmão. O grão caído na terra só vive se vai morrerÉ dando que se recebe morrendo se vai viver. O vinho e o pão ofertamos são nossas respostas de amorPedimos humildemente aceita-nos ó Senhor",
         "title": "Os Grãos Que Formam Espigas",
-		"keys": "Vocação, Sacrifício, Comunhão, Altar, Amor, Oblação, Igreja, Vida, Perdão",
-		"tempo": "comum",
-		"parte": "ofertorio"
+        "keys": [
+            "Comunhão",
+            "Altar",
+            "Amor",
+            "Igreja",
+            "Perdão"
+        ],
+        "tempo": "comum",
+        "parte": "ofertorio"
     },
     {
         "lyric": "Minha vida tem sentido, cada vez que eu venho aqui E te faço o meu pedido de não me esquecer de ti Meu amor é como este pão, que era trigo Que alguém plantou, depois colheu E depois tornou-se salvação, e deu mais vida E alimentou o povo meu Eu te ofereço este pão Eu te ofereço meu amor Eu te ofereço este pão Eu te ofereço meu amor Minha vida tem sentido, cada vez que eu venho aqui E te faço o meu pedido de não me esquecer de ti Meu amor é como este vinho, que era fruto Que alguém plantou, depois colheu E depois encheu-se de carinho E deu mais vida, e saciou o povo meu Eu te ofereço vinho e pão Eu te ofereço meu amor Eu te ofereço vinho e pão Eu te ofereço meu amor",
-		"title": "Minha vida tem sentido",
-		"keys": "Eucaristia, Pão, Amor, Comunhão, Sacrifício, Vida, Alimento, Pedido",
-		"tempo": "comum",
-		"parte": "ofertorio"
+        "title": "Minha vida tem sentido",
+        "keys": [
+            "Eucaristia",
+            "Pão",
+            "Amor",
+            "Comunhão"
+        ],
+        "tempo": "comum",
+        "parte": "ofertorio"
     },
     {
         "lyric": "Trabalhar o pão, celebrar o pão Oferecer e consagrar e comungar o pão Trabalhar o pão, celebrar o pão Oferecer e consagrar e comungar o pão Fruto do suor e do trabalho Sacrifício que Jesus pediu Pão da liberdade e da justiça Pão da vida, pão do céu Te ofertamos porque tudo é teu Trabalhar o pão (trabalhar o pão) Celebrar o pão (celebrar o pão) Oferecer e consagrar e comungar o pão Trabalhar o pão (trabalhar o pão) Celebrar o pão (celebrar o pão) Oferecer e consagrar e comungar o pão Fruto da esperança e da partilha Santa missa que nos faz irmãos Pão da liberdade e da justiça Pão da vida, pão do céu Pão bendito de libertação Trabalhar o pão (trabalhar o pão) Celebrar o pão (celebrar o pão) Oferecer e consagrar e comungar o pão Trabalhar o pão (trabalhar o pão) Celebrar o pão (celebrar o pão) Oferecer e consagrar e comungar o pão.",
-		"keys": "Eucaristia, Comunhão, Sacrifício, Justiça, Liberdade, Vida, Partilha, Esperança, Santa missa, Irmãos",
-		"tempo": "comum",
-		"parte": "ofertorio"
+        "keys": [
+            "Eucaristia",
+            "Comunhão",
+            "Liberdade",
+            "Esperança",
+            "Irmãos"
+        ],
+        "tempo": "comum",
+        "parte": "ofertorio"
     },
     {
         "lyric": "Um coração para amar, pra perdoar e sentir, para chorar e sorrir, ao me criar Tu me destes um coração pra sonhar, inquieto e sempre a bater, ansioso por entender as coisas que Tu disseste. Eis o que eu venho Te dar, eis o que eu ponho no altar, toma, Senhor, que ele é Teu, meu coração não é meu. Quero que o meu coração seja tão cheio de paz que não se sinta capaz de sentir ódio ou rancor. Quero que a minha oração possa me amadurecer, leve-me a compreender as consequências do amor.",
-		"keys": "Coração, Amor, Perdão, Paz, Oração, Sacrifício, Comunhão, Graça, Esperança, Conhecimento de Deus",
-		"tempo": "comum",
-		"parte": "ofertorio"
+        "keys": [
+            "Coração",
+            "Amor",
+            "Perdão",
+            "Paz",
+            "Oração",
+            "Comunhão",
+            "Graça",
+            "Esperança",
+            "Conhecimento de Deus"
+        ],
+        "tempo": "comum",
+        "parte": "ofertorio"
     },
     {
         "lyric": "Muitos grãos de trigo, se tornaram pão Hoje são Teu corpo, ceia e comunhão Muitos grãos de trigo, se tornaram pão Toma, Senhor, nossa vida em ação Para mudá-la em fruto e missão Toma, Senhor, nossa vida em ação Para mudá-la em missão Muitos cachos de uva, se tornaram vinho Hoje são teu sangue, força no caminho Muitos cachos de uva, se tornaram vinho Toma, Senhor, nossa vida em ação Para mudá-la em fruto e missão Toma, Senhor, nossa vida em ação Para mudá-la em missão Muitas são as vidas, feitas vocação Hoje oferecidas em consagração Muitas são as vidas, feitas vocação Toma, Senhor, nossa vida em ação Para mudá-la em fruto e missão Toma, Senhor, nossa vida em ação Para mudá-la em missão",
-		"keys": "Comunhão, Eucaristia, Fruto, Missão, Vocação, Consagração, Vida, Sangue, Corpo",
-		"tempo": "comum",
-		"parte": "ofertorio"
-    },	
+        "keys": [
+            "Comunhão",
+            "Eucaristia",
+            "Missão",
+            "Consagração",
+            "Corpo"
+        ],
+        "tempo": "comum",
+        "parte": "ofertorio"
+    },
     {
         "lyric": "Vós sois o caminho a verdade a vida O pão da alegria ,descido do céu. Nós somos caminheiros que marcham para o céu Jesus é o caminho que nos conduz a DEUS. Vós sois o caminho a verdade a vidaO pão da alegria, descido do céu. Da noite da mentira das trevas para a luz Busquemos a verdade verdade é só Jesus. Pecar é não ter vida pecar é não ter luz Tem vida só quem segue os passos de Jesus. Vós sois o caminho a verdade a vida O pão da alegria ,descido do céu. Jesus verdade e vida caminho que conduzA igreja peregrina que marcha para a luz",
-		"keys": "Caminho, Verdade, Vida, Alegria, Luz, Jesus, Igreja, Pecado, Salvação",
-		"tempo": "comum",
-		"parte": "comunhao"
+        "keys": [
+            "Caminho",
+            "Alegria",
+            "Luz",
+            "Jesus",
+            "Igreja"
+        ],
+        "tempo": "comum",
+        "parte": "comunhao"
     },
     {
         "lyric": "Cristo quero ser instrumento de tua paz e do teu infinito amor. onde houver ódio e rancor que eu  leve a concórdia, que eu leve o amor. Onde há ofensa que dói que eu leve o perdão onde houver a  discórdia, que eu leve a união e tua paz.Onde encontrar um irmãoa chorar de tristeza sem ter  voz e  nem vez quero bem no seu coração semear alegria pra florir gratidão. Mestre,que eu saiba amar compreender, consolar e dar  sem receber quero sempre mais perdoar trabalhar na  conquista  e vitória da paz",
-		"keys": "Amor, Paz, Concórdia, Perdão, União, Alegria, Gratidão, Misericórdia, Irmãos, Trabalho, Discernimento",
-		"tempo": "comum",
-		"parte": "comunhao"
+        "keys": [
+            "Amor",
+            "Paz",
+            "Concórdia",
+            "Perdão",
+            "Alegria",
+            "Gratidão",
+            "Misericórdia",
+            "Irmãos",
+            "Discernimento"
+        ],
+        "tempo": "comum",
+        "parte": "comunhao"
     },
     {
         "lyric": "Na mesa sagrada se faz unidade No pão que alimenta, que é o pão do senhor Formamos família na fraternidade Não há diferença de raça ou de cor Importa viver, senhor, unidos no amor Na participação, vivendo em comunhão. Chegar junto à mesa é comprometer-seÉ a deus converter-se com sinceridadeO grito dos fracos devemos ouvir E em nome de cristo amar e servir! Enquanto na terra o pão for partido O homem nutrido se transformará Vivendo a esperança num mundo melhorCom cristo lutando, o amor vencerá. Se participamos da eucaristiaÉ grande a alegria que deus oferece Porém não podemos deixar esquecida A dor, nesta vida, que o pobre padece. Assim, comungando da única vidaA morte vencida será nossa sorteSe unidos buscarmos libertação Teremos com cristo a ressurreição",
-		"keys": "Comunhão, Eucaristia, Unidade, Amor, Fraternidade, Paz, Esperança, Libertação, Serviço, Ressurreição",
-		"tempo": "comum",
-		"parte": "comunhao"
+        "keys": [
+            "Comunhão",
+            "Eucaristia",
+            "Amor",
+            "Paz",
+            "Esperança",
+            "Libertação",
+            "Ressurreição"
+        ],
+        "tempo": "comum",
+        "parte": "comunhao"
     },
     {
         "lyric": "É bom estarmos juntos à mesa do Senhore unido na alegria, partir o Pão do Amor.Na vida caminha quem come deste pão. Não anda sozinho quem vive em comunhão. Embora sendo muitos, é um só o nosso Deus. Com Ele, vamos juntos, seguindo os passos seus. Formamos a Igreja, o Corpo do Senhor; que em nós o mundo veja a luz do seu amor. Foi Deus quem deu outrora ao povo o pão do céu;porém, nos dá agora o próprio Filho seu. Será bem mais profundo o encontro: a comunhão,se formos para o mundo sinal de salvação.",
         "title": "É Bom Estarmos Juntos À Mesa do Senhor",
-		"keys": "Comunhão, Alegria, Pão, Amor, Igreja, Corpo, Luz, Salvação, Deus",
-		"tempo": "comum",
-		"parte": "comunhao"
+        "keys": [
+            "Comunhão",
+            "Alegria",
+            "Pão",
+            "Amor",
+            "Igreja",
+            "Corpo",
+            "Luz",
+            "Deus"
+        ],
+        "tempo": "comum",
+        "parte": "comunhao"
     },
     {
         "lyric": "Daqui do meu lugar, eu olho o teu altar e fico a imaginar aquele pão, aquela refeição. Partiste aquele pão e o deste aos teus irmãos. Criaste a religião do pão do céu, do pão que vem do céu. Somos a Igreja do pão, do pão repartido, e do abraço e da paz. Daqui do meu lugar, eu olho o teu altar e fico a imaginar aquela paz, aquela comunhão. Viveste aquela paz e a deste aos teus irmãos. Criaste a religião do pão da paz, da paz que vem do céu. Somos a Igreja da paz, da paz partilhada, e do abraço e do pão.",
-		"keys": "Eucaristia, Altar, Comunhão, Paz, Igreja, Amor, Pão, Irmãos, Céu",
-		"tempo": "comum",
-		"parte": "comunhao"
+        "keys": [
+            "Eucaristia",
+            "Altar",
+            "Comunhão",
+            "Paz",
+            "Igreja",
+            "Amor",
+            "Pão",
+            "Irmãos",
+            "Céu"
+        ],
+        "tempo": "comum",
+        "parte": "comunhao"
     },
     {
         "lyric": "Pelas estradas da vida Nunca sozinho estás Contigo pelo caminhoSanta Maria vai. Ó vem conosco, vem caminhar Santa Maria vem Ó vem conosco, vem caminhar Santa Maria vem. Se pelo mundo os homens Sem conhecer-se vãoNão negues nunca a tua mão A quem te encontrar. Ó vem conosco, vem caminhar Santa Maria vem Ó vem conosco, vem caminhar Santa Maria vem. Mesmo que digam os homens Tu nada podes mudar Luta por um mundo novo De unidade e paz. Ó vem conosco, vem caminhar Santa Maria vem Ó vem conosco, vem caminhar Santa Maria vem[Quarta Parte]Se parecer tua vidaInútil caminharLembra que abres caminhoOutros te seguirão. Ó vem conosco, vem caminhar Santa Maria vemÓ vem conosco, vem caminhar Santa Maria vem",
         "title": "Pelas Estradas da Vida",
-		"keys": "Caminho, Comunhão, Comunidade, Esperança, Luz, Paz, Maria, Unidade",
-		"tempo": "comum",
-		"parte": "final"
+        "keys": [
+            "Caminho",
+            "Comunhão",
+            "Comunidade",
+            "Esperança",
+            "Luz",
+            "Paz",
+            "Maria"
+        ],
+        "tempo": "comum",
+        "parte": "final"
     },
     {
         "lyric": "O sol se põe e o sino que bate Ao som da ave-maria. Voltamos pra casa depois do trabalho Sentindo aqui dentro uma grande alegria Quando à tardinha a nossa senhora Se fica lá fora tentando rezar É grande a emoção que se sente no peito Precisa ser forte para não chorar. (bis)  Quando em criança nos marcou bastante Certos momentos de grande emoção O pôr do sol, a casa e o poente Que nós trazemos na recordação Maria seus olhos me olham profundo Querendo falar de uma grande missão Tem gente sofrendo e morrendo de fome Precisa lutar pela libertação. Os missionários te entregam ó mariaA sua vida o seu caminharVem mãe querida derramas tuas graçasNa nossa igreja em missão popular",
         "title": "O Sol Se Põe",
-		"keys": "Alegria, Aliança, Comunhão, Maria, Misericórdia, Missão, Oração, Liberdade, Libertação, Amor",
-		"tempo": "comum",
-		"parte": "final"
+        "keys": [
+            "Alegria",
+            "Aliança",
+            "Comunhão",
+            "Maria",
+            "Misericórdia",
+            "Missão",
+            "Oração",
+            "Liberdade",
+            "Libertação",
+            "Amor"
+        ],
+        "tempo": "comum",
+        "parte": "final"
     },
     {
         "lyric": "Santa mãe Maria nessa travessia Cubra-nos teu manto cor de anil Guarda nossa vida, Mãe Aparecida Santa Padroeira do Brasil Ave, Maria! A-ve, Maria! Com amor divino guarda os peregrinos Nesta caminhada para o além. Dá-lhes Companhia pois também um dia foste Peregrina de Belém Ave, Maria! A-ve, Maria!Mulher peregrina, força feminina, a mais Importante que existiu. Com justiça queres queNossas mulheres sejam construtoras do Brasil Ave, Maria! A-ve, MariaCom seus passos lentos enfrentando os Ventos, quando sopram noutra direção Toda a Mãe Igreja pede que tu sejasCompanheiras de libertação Ave, Maria! A-ve, Maria!",
         "title": "Caminhando Com Maria",
-		"keys": "Adoração, Amor, Comunhão, Esperança, Mãe, Missão, Mulher, Peregrinação, Redentor, Santa",
-		"tempo": "comum",
-		"parte": "final"
+        "keys": [
+            "Adoração",
+            "Amor",
+            "Comunhão",
+            "Esperança",
+            "Missão",
+            "Mulher",
+            "Peregrinação",
+            "Redentor"
+        ],
+        "tempo": "comum",
+        "parte": "final"
     },
     {
         "lyric": "O Senhor me chamou a trabalhar, A messe é grande a ceifar, A ceifar,o Senhor me chamou.Senhor, aqui estou!Vai trabalhar pelo mundo afora. Eu estarei até o fim contigo. Está na hora,o Senhor me chamou.Senhor,aqui estou. Dom de amor é a vida entregar,Falou Jesus e assim o fez.Dom de amor é a vida entregar:Chegou a minha vez. Todo o bem que na terra alguém fizer,Jesus no céu vai premiar.Cem por um,já na terra Ele vai dar,No céu vai premiar.Teu irmão à tua porta vem bater,Não vais fechar teu coração.Teu irmão a teu lado vem sofrer,Vai logo socorrer.",
         "title": "O Senhor Me Chamou a Trabalhar",
-		"keys": "Chamado, Vocação, Amor, Trabalho, Missão, Comunidade, Esperança, Oração, Jesus",
-		"tempo": "comum",
-		"parte": "final"
+        "keys": [
+            "Amor",
+            "Missão",
+            "Comunidade",
+            "Esperança",
+            "Oração",
+            "Jesus"
+        ],
+        "tempo": "comum",
+        "parte": "final"
     },
     {
         "lyric": "Por causa de um certo reino, estradas eu caminhei buscando, sem ter sossego, o reino que eu vislumbrei. Brilhava a Estrela Dalva e eu quase sem dormir, buscando este certo reino e a lembrança dele a me perseguir! Por causa daquele reino, mil vezes eu me enganei! Tomando o caminho errado, errando quando acertei! Chegava ao cair da tarde, e eu quase sem dormir, buscando este certo reino e a lembrança dele a me perseguir! Um filho de carpinteiro que veio de Nazaré, mostrou-se tão verdadeiro, pôs vida na minha fé. Falava de um novo reino, de flores e de pardais, de gente arrastando a rede, que eu tive sede da sua paz! O filho de carpinteiro falava de um mundo irmão; De um Pai que era companheiro de amor e libertação. Lançou-me um olhar profundo, gelando o meu coração; Depois me falou do mundo, e me deu o selo da vocação! Agora quem me conhece, pergunta se eu encontrei o reino que eu procurava, se é tudo o que eu desejei. E eu digo pensando nele: no meio de vós está o reino que andais buscando, e quem tem amor compreenderá! Jesus me ensinou de novo, as coisas que eu aprendi, por isso eu amei meu povo e o Livro da Vida eu li. E em cada menina moça, em cada moço rapaz, eu sonho que a minha gente será semente de eterna paz!",
         "title": "Por causa de um certo reino",
-		"keys": "Reino de Deus, Vocação, Jesus, Amor, Paz, Comunidade, Esperança, Liberdade, Misericórdia, Eucaristia",
-		"tempo": "comum",
-		"parte": "final"
+        "keys": [
+            "Reino de Deus",
+            "Jesus",
+            "Amor",
+            "Paz",
+            "Comunidade",
+            "Esperança",
+            "Liberdade",
+            "Misericórdia",
+            "Eucaristia"
+        ],
+        "tempo": "comum",
+        "parte": "final"
     },
-
     {
         "lyric": "Senhor, vem salvar teu povo, das trevas da escravidão! Só tu és nossa esperança, és nossa libertação!. Vem, Senhor, vem nos salvar, com teu povo vem caminhar Vem, Senhor, vem nos salvar, com teu povo vem caminhar Contigo o deserto é fértil, a terra se abre em flor Da rocha brota água viva, da treva nasce esplendor!. Vem, Senhor, vem nos salvar, com teu povo vem caminhar Vem, Senhor, vem nos salvar, com teu povo vem caminhar Tu marchas à nossa frente, és força, caminho e luzVem logo salvar teu povo, não tardes, Senhor Jesus! Vem, Senhor, vem nos salvar, com teu povo vem caminharVem, Senhor, vem nos salvar, com teu povo vem caminhar",
         "title": "Senhor, Vem Salvar Teu Povo",
-		"keys": "Libertação, Esperança, Salvação, Caminho, Luz, Escravidão, Deserto, Comunidade",
-		"tempo": "advento",
-		"parte": "entrada"
+        "keys": [
+            "Libertação",
+            "Esperança",
+            "Caminho",
+            "Luz",
+            "Escravidão",
+            "Deserto",
+            "Comunidade"
+        ],
+        "tempo": "advento",
+        "parte": "entrada"
     },
     {
         "lyric": "Uma voz no deserto a ecoar preparai os caminhos de deus! nosso deus vem conosco habitar e nos perdoar devemos, então, vigiar firmes até sua vinda a paz ele vai anunciar aos que voltam a ele o coração vem nos salvar, senhor! vem, logo, ó salvador! nos livra da escuridão! vem a nossa frente caminhar! vem nos salvar, senhor! vem, logo, ó salvador! teu povo espera ansiosamente, o dia que virá! estará o senhor entre nós movido por grande amor de alegria, ele vai exultar entre louvores sua promessa, então, se cumprirá uma virgem irá conceber a luz, um filho dará que será chamado emanuel. vem nos salvar, senhor! vem, logo, ó salvador! nos livra da escuridão! vem a nossa frente caminhar! vem nos salvar, senhor! vem, logo, ó salvador! teu povo esperar ansiosamente, o dia que virá!",
         "title": "Uma voz no deserto a ecoar",
-		"keys": "Adoração, Esperança, Luz, Misericórdia, Oração, Paz, Promessa, Redenção, Salvação",
-		"tempo": "advento",
-		"parte": "entrada"
+        "keys": [
+            "Adoração",
+            "Esperança",
+            "Luz",
+            "Misericórdia",
+            "Oração",
+            "Paz",
+            "Promessa",
+            "Redenção"
+        ],
+        "tempo": "advento",
+        "parte": "entrada"
     },
     {
         "lyric": "Ouve-se na terra um grito do povo um grande clamor senhor, abre os céus que as nuvens chovam o salvador. é um só canto de amor e esperança que a terra mãe, germinando contém a ti, senhor, nós clamamos vem, senhor jesus, vem. ouve-se na terra um grito do povo um grande clamor senhor, abre os céus que as nuvens chovam o salvador. mesmo se as guerras destroem a terra pondo em perigo a paz e o bem que a nossa voz não se canse vem, senhor jesus, vem. ouve-se na terra um grito do povo um grande clamor senhor, abre os céus que as nuvens chovam o salvador. vem reunir hoje as tuas igrejas a tua prece rezamos, também o nosso amor sempre espere vem, senhor jesus, vem. ouve-se na terra um grito do povo um grande clamor senhor, abre os céus que as nuvens chovam o salvador.",
-		"title": "Ouve-se na terra",
-		"keys": "Adoração, Esperança, Comunhão, Clamor, Amor, Paz, Oração, Missão, Reino de Deus, Jesus",
-		"tempo": "advento",
-		"parte": "entrada"
+        "title": "Ouve-se na terra",
+        "keys": [
+            "Adoração",
+            "Esperança",
+            "Comunhão",
+            "Amor",
+            "Paz",
+            "Oração",
+            "Missão",
+            "Reino de Deus",
+            "Jesus"
+        ],
+        "tempo": "advento",
+        "parte": "entrada"
     },
     {
         "lyric": "Eis que de longe vem o senhor, para as nações do mundo julgar. e os corações alegres estarão, como numa noite em festa a cantar. do egito uma vinha arrancaste com amor; com cuidado a replantaste, fundas raízes lançou e por sobre a terra toda sua sombra se espalhou. mas, senhor, o que fizeste? por que teu amor se agasta? derrubaste as suas cercas, todo mundo agora passa, cada um invade e rouba, quebra os ramos e devasta. senhor deus, ouve, escuta: do teu povo és o pastor, do teu trono de bondade faze-nos ver o esplendor. teu poder desperta e vem, vem salvar-nos, ó senhor. até quando estarás indignado contra a gente? até quando o pão da dor comerá amargamente este povo, que tornaste dos vizinhos o joguete? e a vinha que plantaste, já não vens mais visitar? o cuidado de tuas mãos já nem queres mais olhar? desgalhada, murcha e seca, desse jeito vais deixar? sobre o povo que criaste tua mão forte estende, tua face sobre nós, resplender faze clemente. restaurar-nos vem, senhor, vem salvar a tua gente.",
-		"title": "Eis que de longe vem o senhor",
-		"keys": "Adoração, Amor, Coração, Comunidade, Esperança, Fé, Misericórdia, Oração, Pastor, Redenção, Salvação",
-		"tempo": "advento",
-		"parte": "entrada"
+        "title": "Eis que de longe vem o senhor",
+        "keys": [
+            "Adoração",
+            "Amor",
+            "Coração",
+            "Comunidade",
+            "Esperança",
+            "Fé",
+            "Misericórdia",
+            "Oração",
+            "Pastor",
+            "Redenção"
+        ],
+        "tempo": "advento",
+        "parte": "entrada"
     },
     {
         "lyric": "oh! vinde, enfim, eterno deus descei, descei dos altos céus deixai a vossa habitação que a terra espera a salvação que o céu orvalhe o redentor baixai das nuvens, ó senhor! germine a terra o nosso deus pra que nos abra os altos céus por que tardais, ó bom jesus em rebrilhar na vossa luz? em treva densa o mundo jaz trazei a luz, o amor, a paz! oh! vinde, enfim, senhor, a nós ressoe no mundo a vossa voz no mundo brilhe e o vosso olhar oh! vinde, enfim, sem demorar",
-		"keys": "Esperança, Luz, Amor, Paz, Redentor, Salvação, Oração",
-		"tempo": "advento",
-		"parte": "entrada"
+        "keys": [
+            "Esperança",
+            "Luz",
+            "Amor",
+            "Paz",
+            "Redentor",
+            "Oração"
+        ],
+        "tempo": "advento",
+        "parte": "entrada"
     },
     {
         "lyric": "Pão e vinho apresentamos com louvor E pedimos o teu Reino. Vem Senhor Pão e vinho apresentamos com louvor E pedimos o teu Reino. Vem Senhor Pão e vinho repartidos entre irmãos São o laço da unidade do teu povoNossas vidas são também pequenos grãos Que contigo vão formar o homem novo Pão e vinho apresentamos com louvorE pedimos o teu Reino. Vem SenhorPão e vinho apresentamos com louvor E pedimos o teu Reino. Vem Senhor Eis aqui a nossa luta dia a dia Pra ganhar com o trabalho nosso pão Mas tu és o alimento da alegria Que dos pobres fortalece o coração Pão e vinho apresentamos com louvor E pedimos o teu Reino. Vem Senhor Pão e vinho apresentamos com louvorE pedimos o teu Reino. Vem Senhor Vem, Senhor, vem caminhar à nossa frente Vem conosco toda a terra transformar E no mundo libertado e transparenteOs irmãos à mesma mesa vão sentar Pão e vinho apresentamos com louvorE pedimos o teu Reino. Vem Senhor Pão e vinho apresentamos com louvorE pedimos o teu Reino. Vem Senhor",
         "title": "Pão e Vinho Apresentamos Com Louvor",
-		"keys": "Eucaristia, Comunhão, Unidade, Alegria, Reino de Deus, Louvor a Deus, Pão, Libertação, Sacrifício",
-		"tempo": "advento",
-		"parte": "ofertorio"
+        "keys": [
+            "Eucaristia",
+            "Comunhão",
+            "Alegria",
+            "Reino de Deus",
+            "Louvor a Deus",
+            "Pão",
+            "Libertação"
+        ],
+        "tempo": "advento",
+        "parte": "ofertorio"
     },
     {
         "lyric": "A nossa oferta apresentamos no altar e te pedimos: Vem, Senhor, nos libertar! A chuva molhou a terra, o homem plantou um grão. A planta deu flor e frutos, do trigo se fez o pão. A nossa oferta apresentamos no altar e te pedimos: Vem, Senhor, nos libertar! O homem plantou videiras, cercou-as com seu carinho. Da vinha brotou a uva, da uva se fez o vinho. A nossa oferta apresentamos no altar e te pedimos: Vem, Senhor, nos libertar! Os frutos da nossa terra e as lutas dos filhos teus serão, pela tua graça, pão vivo que vem dos céus. A nossa oferta apresentamos no altar e te pedimos: Vem, Senhor, nos libertar! Recebe, Pai, nossas vidas, unidas ao pão e vinho e vem conduzir teu povo, guiando-o no teu caminho. A nossa oferta apresentamos no altar e te pedimos: Vem, Senhor, nos libertar!",
-		"title": "A nossa oferta apresentamos no altar",
-		"keys": "Altar, Benção, Comunhão, Eucaristia, Libertação, Oração, Pão, Sacrifício, Vida.",
-		"tempo": "advento",
-		"parte": "ofertorio"
+        "title": "A nossa oferta apresentamos no altar",
+        "keys": [
+            "Altar",
+            "Benção",
+            "Comunhão",
+            "Eucaristia",
+            "Libertação",
+            "Oração",
+            "Pão"
+        ],
+        "tempo": "advento",
+        "parte": "ofertorio"
     },
     {
         "lyric": "Muito suspira por ti teu povo fiel, tua Israel. Ó Santo Messias! Tua lembrança embalsama, dos que te amam, os tristes dias. Ó Santo Messias! A nação que te adorava, tornaram-na escrava, encheram-na de dor. Ó Santo Messias! Apressa-te em vir libertá-la, em vir salvá-la, bendito Senhor!",
-		"title": "Muito suspira por ti",
-		"keys": "Adoração, Libertação, Messias, Esperança, Salvação, Sofrimento, Comunidade",
-		"tempo": "advento",
-		"parte": "ofertorio"
+        "title": "Muito suspira por ti",
+        "keys": [
+            "Adoração",
+            "Libertação",
+            "Messias",
+            "Esperança",
+            "Comunidade"
+        ],
+        "tempo": "advento",
+        "parte": "ofertorio"
     },
     {
         "lyric": "As nossas mãos se abrem mesmo na luta e na dor E trazem pão e vinho para esperar o Senhor Deus ama os pobres e se fez pobre também Desceu à terra e fez pousada em Belém As nossas mãos se elevam para, num gesto de amorRetribuir a vida que vem das mãos do Senhor Deus ama os pobres e se fez pobre tambémDesceu à terra e fez pousada em BelémAs nossas mãos se encontram na mais fraterna união Façamos deste mundo a grande casa do pão!Deus ama os pobres e se fez pobre também Desceu à terra e fez pousada em Belém As nossas mãos sofridas nem sempre têm o que darMas vale a própria vida de quem prossegue a lutarDeus ama os pobres e se fez pobre também Desceu à terra e fez pousada em Belém",
         "title": "As nossas mãos se abrem",
-		"keys": "Pobreza, Comunhão, Amor, Esperança, Eucaristia, Belém, Serviço, Unidade, Misericórdia, Sacrifício",
-		"tempo": "advento",
-		"parte": "ofertorio"
+        "keys": [
+            "Pobreza",
+            "Comunhão",
+            "Amor",
+            "Esperança",
+            "Eucaristia",
+            "Belém",
+            "Misericórdia"
+        ],
+        "tempo": "advento",
+        "parte": "ofertorio"
     },
     {
         "lyric": "Senhor, aceita nosso vinho e nosso pão; que eles mereçam teu amor e salvação. Pai eterno, as oferendas do teu povo: sua vida colocada em tuas mãos! Que por elas venha ao mundo um tempo novo, onde todos sejam vistos como irmãos. Tu serás o Bom Pastor à nossa frente, dando rumo à caminhada dos irmãos. Que teu Reino seja verdadeiramente de justiça, de verdade e salvação.",
         "title": "Senhor, aceita nosso vinho e nosso pão",
-		"keys": "Eucaristia, Comunhão, Sacrifício, Justiça, Salvação, Irmãos, Missão, Oração, Pai, Reino de Deus, Bom Pastor.",
-		"tempo": "advento",
-		"parte": "ofertorio"
+        "keys": [
+            "Eucaristia",
+            "Comunhão",
+            "Irmãos",
+            "Missão",
+            "Oração",
+            "Pai",
+            "Reino de Deus"
+        ],
+        "tempo": "advento",
+        "parte": "ofertorio"
     },
     {
         "lyric": "Vem ó Senhor com o teu povo caminhar Teu corpo e sangue, vida e força vem nos dar. A boa nova proclamai com alegria, Deus vem a nós, ele nos salva e nos recria E o deserto vai florir e se alegrar da terra seca, flores, frutos vão brotar. Eis nosso Deus, e ele vem para salvar, com sua força vamos juntos caminhar E construir um mundo novo libertado do egoísmo, da injustiça e do pecado. Uma voz clama no deserto com vigor: preparai hoje os caminhos do Senhor Tirai do mundo a violência e ambição que não nos deixa ver no outro o nosso irmão. Distribuí os vossos bens com igualdade, fazei na terra germinar fraternidade O Deus da vida marchará com o seu povo e homens novos viverão um mundo novo. Vem ó Senhor, ouve o clamor de tua gente que luta e sofre, porém crê que estás presente Não abandones o teu povo Deus fielporque teu nome é Deus conosco, Emanuel",
         "title": "Vem, Ó Senhor Com o Teu Povo Caminhar",
-		"keys": "Caminho, Comunhão, Comunidade, Conversão, Deus, Esperança, Fraternidade, Justiça, Libertação, Misericórdia, Oração, Paz, Redenção, Ressurreição, Sacrifício, Salvação, Serviço, Vida.",
-		"tempo": "advento",
-		"parte": "comunhao"
+        "keys": [
+            "Caminho",
+            "Comunhão",
+            "Comunidade",
+            "Conversão",
+            "Deus",
+            "Esperança",
+            "Libertação",
+            "Misericórdia",
+            "Oração",
+            "Paz",
+            "Redenção",
+            "Ressurreição"
+        ],
+        "tempo": "advento",
+        "parte": "comunhao"
     },
     {
         "lyric": "Vigiai, vigiai, eu vos digo  Não sabeis qual o dia ou a hora Vigiai, vigiai eu repito  Eis que vem o Senhor em sua glória! Vigiai, vigiai, eu vos digo  Não sabeis qual o dia ou a horaVigiai, vigiai eu repito  Eis que vem o Senhor em sua glória! Foste amigo antigamente  Desta terra que amaste  Deste povo que Escolheste Sua sorte melhoraste  Perdoaste seus pecados  Tua raiva acalmaste. Vem de novo restaurar-nos!  Sempre irado estará  Indignado contraNósE a vida não darás  Salvação e alegria  Outra vez, não nos trarás. Escutemos suas palavras  É de paz que vai falar  Paz ao povo, aSeus fiéis A quem dele se achegar  Está perto a salvação  E a glória vai Voltar. Eis: Amor, fidelidade  Vão unidos se encontrarBem assim, justiça e pazVão beijar-se e se abraçar  Vai brotar fidelidadeE justiça se mostrar. E virão os benefícios  Do Senhor a abençoarE os frutos de amor Desta terra vão brotar  A justiça diante deleE a paz o seguirá Glória ao Pai onipotente Ao que vem, glória e amor Ao  Espírito cantemosGlória a nosso defensor  Ao Deus Uno e Trino demosA alegria do louvor",
         "title": "Vigiai, Vigiai, Eu Vos Digo",
-		"keys": "Vigiai, Salvação, Glória, Paz, Amor, Fidelidade, Justiça, Oração, Louvor a Deus, Esperança",
-		"tempo": "advento",
-		"parte": "comunhao"
+        "keys": [
+            "Glória",
+            "Paz",
+            "Amor",
+            "Fidelidade",
+            "Oração",
+            "Louvor a Deus",
+            "Esperança"
+        ],
+        "tempo": "advento",
+        "parte": "comunhao"
     },
     {
         "lyric": "Convertei-nos Senhor Deus Do mundo inteiro Sobre nós a vossa face iluminai Se voltardes para nós seremos salvos Vós que sobre os anjos todos assentai Arrancastes do Egito esta videira E expulsastes muita gente pra plantá-la Diante dela preparaste terra boa Vinde logo Senhor,Vinde depressa pra salvá-la. Suas raízes se espalharam pela terra E seus ramos recobriram o sertão Lenvantai-vos vinde logo Em nosso auxílio Libertai-nos pela vossa compaixão. Seus rebentos atingiram as montanhas Verdes mares, longos rios e palmeiras Vinde logo Senhor Deus do Universo Visitai a vossa vinha e protegei-a. Vossa mão foi quem plantou esta videira Vinde cuidar deste rebento que firmastes E aqueles que cortarem ou queimaremVão sofrer ante o furor de vossa face. Até quando ficaremos esperando Escutai a oração do vosso povoVinde livrar-nos e banir da nossa históriaDe bebermos pranto amargo e copioso. Estendei a vossa mão ao protegidoQue escolhestes para vósO filho do homem E jamais vos deixaremos Senhor santoDai-nos vida e louvaremos vosso nome.",
         "title": "Convertei-nos Senhor Deus do Mundo Inteiro",
-		"keys": "Adoração, Conversão, Oração, Salvação, Misericórdia, Liberdade, Redenção, Coração, Graça, Benção.",
-		"tempo": "advento",
-		"parte": "comunhao"
+        "keys": [
+            "Adoração",
+            "Conversão",
+            "Oração",
+            "Misericórdia",
+            "Liberdade",
+            "Redenção",
+            "Coração",
+            "Graça"
+        ],
+        "tempo": "advento",
+        "parte": "comunhao"
     },
     {
         "lyric": "Abre tua porta que alguém está batendo Abre tua porta que alguém está nascendoÉ Jesus que vem à ti. Por que não respondes? Por que tu te escondes?Impedes Jesus de renascer! Tira este manto que veste o velho homem Tira da vida ideais que te consomem Abre a porta pra Jesus Quando acolheres idosos e criançasPara cobri-los de paz e esperançaÉ Jesus que vem a ti",
         "title": "Abre Tua Porta",
-		"keys": "Acolhimento, Alegria, Amor, Esperança, Jesus, Luz, Oração, Paz, Redenção, Renascimento, Ressurreição",
-		"tempo": "advento",
-		"parte": "comunhao"
+        "keys": [
+            "Alegria",
+            "Amor",
+            "Esperança",
+            "Jesus",
+            "Luz",
+            "Oração",
+            "Paz",
+            "Redenção",
+            "Ressurreição"
+        ],
+        "tempo": "advento",
+        "parte": "comunhao"
     },
     {
         "lyric": "A minh’alma engrandece o senhor meu coração muito se alegrou em deus meu salvador em deus meu salvador! ele voltou seu olhar para a pequenez de sua servidora e todas as gerações me proclamarão feliz e ditosa! a minh’alma engrandece o senhor meu coração muito se alegrou em deus meu salvador em deus meu salvador! ele, que é todo poder me fez grandes coisas, santo e seu nome! sua bondade se estende de pais para filhos sobre os que o temem! a minh’alma engrandece o senhor meu coração muito se alegrou em deus meu salvador em deus meu salvador! ele agiu com braço forte e os cheios de orgulho ele dispersou botou abaixo os potentes humildes, pequenos, ele elevou! a minh’alma engrandece o senhor meu coração muito se alegrou em deus meu salvador em deus meu salvador! ele enriqueceu os famintos e os ricos, sem nada, embora mandou! ele a seu povo acudiu de sua promessa aos pais se lembrou! a minh’alma engrandece o senhor meu coração muito se alegrou em deus meu salvador em deus meu salvador! ele aliou-se a abraão e a seus descendentes, sem fim também! glória ao pai por seu filho no espírito santo, para sempre. amém! a minh’alma engrandece o senhor meu coração muito se alegrou em deus meu salvador em deus meu salvador!",
-		"title": "A minh’alma engrandece o senhor",
-		"keys": "Alegria, Benção, Bondade, Comunhão, Misericórdia, Oração, Promessa, Redentor, Ressurreição",
-		"tempo": "advento",
-		"parte": "comunhao"
+        "title": "A minh’alma engrandece o senhor",
+        "keys": [
+            "Alegria",
+            "Benção",
+            "Bondade",
+            "Comunhão",
+            "Misericórdia",
+            "Oração",
+            "Promessa",
+            "Redentor",
+            "Ressurreição"
+        ],
+        "tempo": "advento",
+        "parte": "comunhao"
     },
     {
         "lyric": "Como o Sol nasce da aurora, de Maria nascerá aquele que a terra seca, em jardim converterá. Ó Belém, abre teus braços ao pastor que a ti virá. Emanuel, Deus Conosco, vem ao nosso mundo, vem. Ouve, ó pastor do teu povo, vem do alto céus, onde estás. Emanuel, Deus conosco, vem ao nosso mundo, vem. Vem, teu rebanho salvar, mostra o amor que lhe tens. Emanuel, Deus conosco, vem ao nosso mundo, vem. Salva e protege essa vinha, foi tua mão que a plantou. Emanuel, Deus conosco, vem ao nosso mundo, vem. Salva e confirma este eleito, ele que é nosso pastor. Emanuel, Deus conosco, vem ao nosso mundo, vem.",
-		"title": "Como o Sol nasce da aurora",
-		"keys": "Coração, Comunhão, Deus, Emanuel, Família, Amor, Pastor, Salvação, Benção, Redentor, Misericórdia, Conversão, Alegria, Altar, Aliança, Promessa, Missão, Luz",
-		"tempo": "advento",
-		"parte": "final"
+        "title": "Como o Sol nasce da aurora",
+        "keys": [
+            "Coração",
+            "Comunhão",
+            "Deus",
+            "Família",
+            "Amor",
+            "Pastor",
+            "Benção",
+            "Redentor",
+            "Misericórdia",
+            "Conversão",
+            "Alegria",
+            "Altar",
+            "Aliança",
+            "Promessa",
+            "Missão",
+            "Luz"
+        ],
+        "tempo": "advento",
+        "parte": "final"
     },
     {
         "lyric": "Preparai os caminhos do senhor, pois o reino de deus está chegando. Pois o reino de deus está chegando. ó pastor de israel, prestai ouvidos, vós que a josé apascentais qual um rebanho! vós que sobre os querubins vos assentais, aparecei cheio de glória e esplendor! despertai vosso poder, ó nosso deus, e vinde logo nos trazer a salvação! convertei-nos, ó senhor deus do universo, se voltardes para nós, seremos salvos! voltai-vos para nós, deus do universo, olhai dos altos céus e observai! visitai a vossa vinha e protegei-a! se voltardes para nós, seremos salvos! pousai a mão por sobre o vosso protegido, o filho do homem que escolhestes para vós! e nunca mais vos deixaremos, senhor deus! dai-nos vida, e louvaremos vosso nome!",
-		"title": "Preparai os caminhos do senhor",
-		"keys": "Reino de Deus, Pastor, Salvação, Conversão, Oração, Louvor a Deus",
-		"tempo": "advento",
-		"parte": "final"
+        "title": "Preparai os caminhos do senhor",
+        "keys": [
+            "Reino de Deus",
+            "Pastor",
+            "Conversão",
+            "Oração",
+            "Louvor a Deus"
+        ],
+        "tempo": "advento",
+        "parte": "final"
     },
     {
         "lyric": "Ó mãe do redentor, do céu ó porta, ao povo que caiu socorre e exorta; pois busca levantar-se virgem pura, nascendo o criador da criatura. Tem piedade de nós, e ouve, suave, o anjo te saudando com seu 'ave!'",
-		"title": "Ó mãe do redentor",
-		"keys": "Amor, Comunhão, Misericórdia, Oração, Proximidade, Redentor, Ressurreição, Sacerdote, Sacrifício",
-		"tempo": "advento",
-		"parte": "final"
+        "title": "Ó mãe do redentor",
+        "keys": [
+            "Amor",
+            "Comunhão",
+            "Misericórdia",
+            "Oração",
+            "Redentor",
+            "Ressurreição",
+            "Sacerdote"
+        ],
+        "tempo": "advento",
+        "parte": "final"
     },
     {
         "lyric": "Vigia esperando aurora qual noiva esperando o amor. É assim que servo espera a vinda do seu senhor. Ao longe um galo vai cantar seu canto, o sol no céu vai estender seu manto, na madrugada eu estarei desperto, que já vem perto o dia do senhor. A minha voz vai acordar meu povo, louvando a Deus, que faz o mundo novo. Não vou ligar se a madrugada é fria, que um novo dia logo vai chegar. Se é noite escura, acendo a minha tocha dentro do peito, o sol já desabrocha. Filho da luz, não vou dormir: vigio, ao mundo frio vou levar o amor!",
-		"title": "Vigia esperando aurora",
-		"keys": "Adoração, Alegria, Amor, Coração, Dia do senhor, Esperança, Luz, Louvor a Deus, Misericórdia, Oração, Vigilância",
-		"tempo": "advento",
-		"parte": "final"
+        "title": "Vigia esperando aurora",
+        "keys": [
+            "Adoração",
+            "Alegria",
+            "Amor",
+            "Coração",
+            "Dia do senhor",
+            "Esperança",
+            "Luz",
+            "Louvor a Deus",
+            "Misericórdia",
+            "Oração"
+        ],
+        "tempo": "advento",
+        "parte": "final"
     },
     {
         "lyric": "Tempo de esperança e de viver. Tempo de ser novo e renascer. Eis que uma criança já se anuncia. Dentro de Maria o céu conosco está. Tempo de esperança e de alegria. Vamos esperar que o Senhor virá! O libertador já vem. Como esperava o povo hebreu, o Senhor do povo não se esqueceu. Hoje o povo espera de coração por um mundo novo bem mais irmão.",
-		"title": "Tempo de esperança e de viver",
-		"keys": "Esperança, Alegria, Libertação, Criança, Maria, Reino de Deus, Coração, Novo, Tempo, Espera",
-		"tempo": "advento",
-		"parte": "final"
+        "title": "Tempo de esperança e de viver",
+        "keys": [
+            "Esperança",
+            "Alegria",
+            "Libertação",
+            "Maria",
+            "Reino de Deus",
+            "Coração"
+        ],
+        "tempo": "advento",
+        "parte": "final"
     },
-
     {
         "lyric": "Eu vou seguindo uma estrela que a luz dos olhos não vê, e já que não posso vê-la, eu me pergunto: por quê? A estrela que vou seguindo, só vejo com minha fé, pois ela é a voz do menino, do moço de Nazaré. Eu vou seguindo uma estrada, por onde o amor me conduz. E não me importa mais nada, se nela encontro Jesus. No encontro com meus amigos, procuro Cristo encontrar, pois Ele, se vai comigo, jamais terei que parar. Eu vou seguindo um projeto de vida e de construção, a Cristo eu dou meu afeto no bem que faço aos irmãos. O meu projeto percebe no amor o apoio melhor, é dando que se recebe o bem que é muito maior.",
-		"title": "Eu vou seguindo uma estrela",
-		"keys": "Adoração, Amor, Comunhão, Cristão, Coração, Esperança, Fé, Missão, Pobreza, Providência, Reconciliação",
-		"tempo": "natal",
-		"parte": "entrada"
+        "title": "Eu vou seguindo uma estrela",
+        "keys": [
+            "Adoração",
+            "Amor",
+            "Comunhão",
+            "Cristão",
+            "Coração",
+            "Esperança",
+            "Fé",
+            "Missão",
+            "Pobreza",
+            "Providência",
+            "Reconciliação"
+        ],
+        "tempo": "natal",
+        "parte": "entrada"
     },
     {
         "lyric": "O tempo vai passando sutilmente, de repente a gente lembra que o Natal já vai chegar. É preciso parar, é preciso lembrar que Cristo veio para nos salvar. A praça apareceu iluminada, na calçada o povo pensa que em pacotes compra a paz. Só de Deus vem a paz, é só ele quem traz felicidade para todos nós. O meu Natal seria uma prece se eu pudesse, em alegria todo o pranto transformar. Ele veio salvar, todo o pranto enxugar, tornou-se gente para humanizar.",
-		"title": "O tempo vai passando sutilmente",
-		"keys": "Adoração, Alegria, Amor, Natal, Paz, Redenção",
-		"tempo": "natal",
-		"parte": "entrada"
+        "title": "O tempo vai passando sutilmente",
+        "keys": [
+            "Adoração",
+            "Alegria",
+            "Amor",
+            "Paz",
+            "Redenção"
+        ],
+        "tempo": "natal",
+        "parte": "entrada"
     },
     {
         "lyric": "A gente passa o ano inteiro assim andando sempre do começo ao fim será que Cristo esteve cada dia ao nosso lado, em nossa companhia. Natal é tempo de rever da gente amar e renascer natal é tempo de pensar em Deus, que só nos quer salvar. Por toda parte vemos tantas luzes por toda parte vemos tantas cruzes natal é tempo de partir o pão natal é tempo de salvar o irmão. Em nossa festa é bom lembrar também daquela gente que natal não tem tem mais sentido toda a nossa vida ao repartir a graça recebida.",
-		"title": "A gente passa o ano inteiro assim",
-		"keys": "Oração, Natal, Comunhão, Luz, Amor, Salvação, Misericórdia, Partilha, Graça, Irmãos, Deus",
-		"tempo": "natal",
-		"parte": "entrada"
+        "title": "A gente passa o ano inteiro assim",
+        "keys": [
+            "Oração",
+            "Comunhão",
+            "Luz",
+            "Amor",
+            "Misericórdia",
+            "Graça",
+            "Irmãos",
+            "Deus"
+        ],
+        "tempo": "natal",
+        "parte": "entrada"
     },
     {
         "lyric": "Hoje a luz visita o mundo. É a luz que traz alegria. Tudo por ela reviverá, ó noite, que hoje é dia! Eis o Filho de Deus. Eis o Verbo encarnado. O Filho muito amado, Senhor da Luz: Cristo Jesus! Hoje, as trevas fogem pra longe ao contemplar a luz radiante. Numa só voz a criação entoa um canto exultante. Hoje, o Verbo, a luz verdadeira, o mundo inteiro ele recria. Vinde, cantemos ao grande Sol, que vindo a nós se inclina. Hoje se cumpre a grande promessa: “Enfim, chegou a Luz-Redenção!” Entre acordes, cantos e festa, fazemos a louvação! Hoje nasceu Jesus de Maria, o clarão que envolve o universo. Vinde, prostremo-nos a adorar, o Senhor que se faz servo. Hoje os céus se unem à terra cantando à luz que brilha e fulgura. E nós cantamos ao que nos vem: Glória a Deus nas alturas.",
-		"title": "Hoje a luz visita o mundo",
-		"keys": "Alegria, Aliança, Amor, Adoração, Luz, Glória, Comunhão, Jesus, Redenção, Louvor a Deus",
-		"tempo": "natal",
-		"parte": "entrada"
+        "title": "Hoje a luz visita o mundo",
+        "keys": [
+            "Alegria",
+            "Aliança",
+            "Amor",
+            "Adoração",
+            "Luz",
+            "Glória",
+            "Comunhão",
+            "Jesus",
+            "Redenção",
+            "Louvor a Deus"
+        ],
+        "tempo": "natal",
+        "parte": "entrada"
     },
     {
         "lyric": "Vinde irmãos e exultai na alegria Do céu vede mistérios sem véus E com anjos cantai na harmonia. Glória a Deus no mais alto lá dos céus! Feliz Natal! Nasceu Jesus! Brilhou a luz do eterno amor Glória e louvor ao Dom do céu  Emanuel, Deus SalvadorPaz aos homens de boa vontade Lá no céu cantam anjos também. É Jesus vindo a nós na humildade. Toda a terra se torna então Belém Em mistério, sorri o menino No aconchego e ternura dos pais E louvores ao Deus pequenino Vêm pastores cantando sempre maisHoje o sonho de Deus tudo abraças   Para tudo salvar pelo amor. E é Jesus, Dom do Pai, pura graça. Rei da paz, Verbo eterno e Salvador",
         "title": "Vinde Irmãos",
-		"keys": "Adoração, Alegria, Anjo, Amor, Benção, Comunhão, Deus, Eucaristia, Esperança, Glória, Jesus, Louvor a Deus, Mistério, Paz, Redentor",
-		"tempo": "natal",
-		"parte": "entrada"
+        "keys": [
+            "Adoração",
+            "Alegria",
+            "Anjo",
+            "Amor",
+            "Benção",
+            "Comunhão",
+            "Deus",
+            "Eucaristia",
+            "Esperança",
+            "Glória",
+            "Jesus",
+            "Louvor a Deus",
+            "Mistério",
+            "Paz",
+            "Redentor"
+        ],
+        "tempo": "natal",
+        "parte": "entrada"
     },
     {
         "lyric": "Cristãos, vinde todos. Com alegres cantos. Oh! Vinde, oh! Vinde até Belém. Vede nascido vosso Rei eterno. Oh! Vinde e adoremos. Oh! Vinde e adoremos. Oh! Vinde e adoremos o salvador. Humildes pastores deixam seus rebanhosE alegres acorrem ao rei do céu. Nós igualmente cheios de alegria. Oh! vinde e adoremos. Oh! vinde e adoremos. Oh! Vinde e adoremos o salvador. O Deus invisível, de eterna grandeza. Sob véus de humildade, podemos ver. Deus pequenino, Deus envolto em faixas. Oh! vinde e adoremos. Oh! vinde e adoremos. Oh! Vinde e adoremos o salvador",
         "title": "Cristãos, Vinde Todos",
-		"keys": "Adoração, Alegria, Belém, Deus, Humilde, Rei, Salvado, Comunhão",
-		"tempo": "natal",
-		"parte": "ofertorio"
+        "keys": [
+            "Adoração",
+            "Alegria",
+            "Belém",
+            "Deus",
+            "Humilde",
+            "Rei",
+            "Comunhão"
+        ],
+        "tempo": "natal",
+        "parte": "ofertorio"
     },
     {
         "lyric": "Nasceu hoje em Belém o rei do mundo: o salvador. Anunciado por Gabriel. Jesus, nosso Deus e Senhor! A glória do verbo se faz luzeiro eterno que traz a nós da vida o calor. Nesta noite despontou a grande estrela: o Cristo verbo eterno encarnado! De Maria nos vem hoje a alegria, que tanto esperamos com amor. Alegremo-nos com todo o universo, pois hoje nos nasceu o salvador.",
         "title": "Nasceu hoje em Belém",
-		"keys": "Alegria, Aliança, Amém, Amor, Anjo, Anjos, Comunhão, Deus, Eucaristia, Esperança, Jesus, Louvor a Deus, Maria, Natal, Reino de Deus",
-		"tempo": "natal",
-		"parte": "ofertorio"
+        "keys": [
+            "Alegria",
+            "Aliança",
+            "Amém",
+            "Amor",
+            "Anjo",
+            "Comunhão",
+            "Deus",
+            "Eucaristia",
+            "Esperança",
+            "Jesus",
+            "Louvor a Deus",
+            "Maria",
+            "Reino de Deus"
+        ],
+        "tempo": "natal",
+        "parte": "ofertorio"
     },
     {
         "lyric": "Guiados pela estrela da nossa fé ardente. Iremos ao altar ver cristo que nasceu Cristo nasceu para todos nós. Reis Magos e Pastores, governo e governados Conosco vinde ver o Cristo que nasceu Cristo nasceu para todos nós Reis Magos e pastores, patrões e operários Conosco vinde ver o Cristo que nasceu Cristo nasceu para todos nós Reis Magos e Pastores, os grandes e pequenos Conosco vinde ver o Cristo que nasceu Cristo nasceu para todos nós",
         "title": "Guiados Pela Estrela",
-		"keys": "Altar, Amor, Comunhão, Cristo, Esperança, Luz, Paz, Redentor, Rei",
-		"tempo": "natal",
-		"parte": "ofertorio"
+        "keys": [
+            "Altar",
+            "Amor",
+            "Comunhão",
+            "Cristo",
+            "Esperança",
+            "Luz",
+            "Paz",
+            "Redentor",
+            "Rei"
+        ],
+        "tempo": "natal",
+        "parte": "ofertorio"
     },
     {
         "lyric": "Nas terras do oriente Surgiu dos céus uma luz Que vem brilhar sobre o mundo E para Deus nos conduz Que vem brilhar sobre o mundo E para Deus nos conduz. Nasceu Jesus salvador Aleluia, aleluia!É ele o cristo senhor Aleluia, aleluia! Nasceu-nos hoje um menino Um filho que nos foi dado É grande e tão pequenino Deus forte é ele chamado É grande e tão pequenino Deus forte é ele chamado. Nasceu Jesus salvador Aleluia, aleluia!É ele o cristo senhor Aleluia, aleluia! Cantai com muita alegria Que grande amor Deus nos tem! Pequeno, pobre, escondido Nasceu por nós em belém Pequeno, pobre, escondido Nasceu por nós em belém. Nasceu Jesus salvador Aleluia, aleluia! É ele o cristo senhor  Aleluia, aleluia!",
         "title": "Nas Terras do Oriente",
-		"keys": "Alegria, Aliança, Amor, Adoração, Comunhão, Jesus, Natal, Salvação, Luz, Deus, Aleluia",
-		"tempo": "natal",
-		"parte": "ofertorio"
+        "keys": [
+            "Alegria",
+            "Aliança",
+            "Amor",
+            "Adoração",
+            "Comunhão",
+            "Jesus",
+            "Luz",
+            "Deus"
+        ],
+        "tempo": "natal",
+        "parte": "ofertorio"
     },
     {
         "lyric": "No templo santo, a te ofertar, um dom sublime, ó Deus de amor, teu Filho infante, a nos salvar, da vida escrava, Libertador! Repica o sino lá em Belém e gente simples vem adorar. É o Deus menino, salvar-nos vem do mal, da morte, vem nos livrar. Mãe oferente, Mãe tão feliz, que tudo guarda no coração. Assim, por todos o céu bendiz e dá seu Filho em oblação.",
         "title": "Nas Terras do Oriente",
-		"keys": "Alegria, Altar, Amor, Benção, Comunhão, Família, Libertação, Louvor a Deus, Mãe, Misericórdia, Oração, Redentor",
-		"tempo": "natal",
-		"parte": "ofertorio"
+        "keys": [
+            "Alegria",
+            "Altar",
+            "Amor",
+            "Benção",
+            "Comunhão",
+            "Família",
+            "Libertação",
+            "Louvor a Deus",
+            "Misericórdia",
+            "Oração",
+            "Redentor"
+        ],
+        "tempo": "natal",
+        "parte": "ofertorio"
     },
     {
         "lyric": "Da cepa brotou a rama, da rama brotou a flor. Da flor nasceu Maria, de Maria, o Salvador. O Espírito de Deus sobre ele pousará, de saber, de entendimento, este Espírito será, de conselho e fortaleza, de ciência e de temor. Achará sua alegria no temor do seu Senhor. Não será pela ilusão do olhar, do ouvir falar, que ele irá julgar os homens como é praxe acontecer. Mas os pobres desta terra com justiça julgará e dos fracos o direito ele é quem defenderá. A palavra de sua boca ferirá o violento e o sopro de seus lábios matará o avarento. A justiça é o cinto que circunda a sua cintura e o manto da lealdade é a sua vestidura. Neste dia, o incrível, verdadeiro, coisa que nunca se viu, morar lobo com cordeiro a comer do mesmo pasto. Tigre e boi, burro e leão, por um menino guiados, se confraternizarão. Um menino, uma criança, com as feras a brincar e nenhum mal nenhum dano mais na terra se fará. Da ciência do Senhor cheio o mundo estará como o sol inunda a terra e as águas enchem o mar. Neste dia, o Senhor estenderá sua mão libertadora pra seu povo resgatar. Estandarte para os povos o Senhor levantará. A seu povo, a sua Igreja, toda a terra acorrerá. A inveja, a opressão entre irmãos se acabará e a comunhão de todos o inimigo vencerá. Poderosa mão de Deus fez no Egito o mar secar para o resto do seu povo um caminho abrirá.",
         "title": "Da cepa brotou a rama",
-		"keys": "Alegria, Aliança, Amor, Comunhão, Esperança, Justiça, Libertação, Misericórdia, Paz, Redenção, Salvação",
-		"tempo": "natal",
-		"parte": "comunhao"
+        "keys": [
+            "Alegria",
+            "Aliança",
+            "Amor",
+            "Comunhão",
+            "Esperança",
+            "Libertação",
+            "Misericórdia",
+            "Paz",
+            "Redenção"
+        ],
+        "tempo": "natal",
+        "parte": "comunhao"
     },
     {
         "lyric": "A luz resplandeceu em plena escuridão, jamais irão as trevas vencer o seu clarão. De tudo existe um começo, e no começo de tudo era o verbo, sim o verbo, pelo qual existe tudo. Voltado pra Deus estava o verbo que era Deus, e nada de quanto existe sem ele apareceu. É nele que estava a vida, a vida que é luz dos homens. A luz nas trevas resplende e as trevas não compreendem. Um homem por Deus mandado, seu nome era João, veio a luz testemunhar para o mundo acreditar. João, ele não era a luz, veio a luz testemunhar. Luz verdadeira era o verbo que veio ao mundo brilhar, a iluminar todo homem. O verbo estava no mundo, por quem o mundo existia, mas não o reconhecia. Veio ao que lhe pertencia, mas os seus não o acolheram. Porém, quem o recebia, os que no seu nome creram, filhos de Deus se tornaram. O verbo deu tal poder e assim nasceram de Deus e não de humano querer. O verbo, então, fez-se carne, veio entre nós acampar, e sua glória nós vimos, glória que seu pai lhe dá. Único filho do pai, de graça e verdade pleno, de sua imensa riqueza, graças, sem fim, recebemos. Quem deu a lei foi Moisés, porém, a graça e a verdade somente, por Jesus Cristo, chegam à realidade. Ninguém jamais viu a Deus, o filho único, então, que está no seio do pai nos fez a revelação.",
         "title": "A luz resplandeceu",
-		"keys": "Luz, Palavra de Deus, Jesus, Criação, Vida, Esperança, Fé, Testemunho, Graça, Glória, Revelação ",
-		"tempo": "natal",
-		"parte": "comunhao"
+        "keys": [
+            "Luz",
+            "Palavra de Deus",
+            "Jesus",
+            "Criação",
+            "Esperança",
+            "Fé",
+            "Graça",
+            "Glória",
+            "Revelação"
+        ],
+        "tempo": "natal",
+        "parte": "comunhao"
     },
     {
         "lyric": "Natal é vida que nasce. Natal é Cristo que vem. Nós somos o seu presépio e a nossa casa é Belém. Deus se tornou nossa grande esperança e como criança no mundo nasceu. Por isto vamos abrir nossa porta, a Cristo o que importa é conosco viver. Ele assumiu nossa vida terrena. Ao céu nos acena com gesto de amor. Veio a todos salvar igualmente. Queria somente ser nosso pastor. Deus infinito aos homens se iguala e a todos só fala palavras de paz. Quer ser o nosso irmão mais fraterno. Do seu reino eterno herdeiros nos faz.",
         "title": "Natal é vida que nasce",
-		"keys": "Cristo, Belém, Esperança, Amor, Salvação, Pastor, Paz, Reino de Deus, Céu, Irmãos, Eterno",
-		"tempo": "natal",
-		"parte": "comunhao"
+        "keys": [
+            "Cristo",
+            "Belém",
+            "Esperança",
+            "Amor",
+            "Pastor",
+            "Paz",
+            "Reino de Deus",
+            "Céu",
+            "Irmãos"
+        ],
+        "tempo": "natal",
+        "parte": "comunhao"
     },
     {
         "lyric": "Chegou a hora de sonhar de novo De tornar-se povo, e se fazer irmão Chegou a hora que ligeiro passa De ganhar a graça e a conversão Meu caro irmão Olha pra dentro do teu coração Vê se o Natal se tornou conversão E te ensinou a viver Chegou a hora de viver o Cristo E acreditar que isto é se tornar maior Chegou a hora de pensar profundo E perceber que o mundo pode ser melhor Será difícil tantas mãos unidas Não fazer da vida um tempo sem igual Será difícil tanto amor e afeto Não tornar concreto, o gesto do Natal",
         "title": "Chegou a Hora de Sonhar",
-		"keys": "",
-		"tempo": "natal",
-		"parte": "comunhao"
+        "keys": [
+            ""
+        ],
+        "tempo": "natal",
+        "parte": "comunhao"
     },
     {
         "lyric": "Deus nos espera em Belém, sabe da fome que temos. Vamos à casa do pão: lá nosso irmão nós veremos! Toda a bondade de Deus desde o começo vigora. Felizes todos os povos: hoje conosco ele mora. Foram Maria e José os escolhidos da vida, que viram a felicidade em se entregar sem medida. Anjos cantaram por lá cantos de plena alegria, e quem se fez vigilante, viu que o Menino sorria. Longe uma estrela brilhou e nos chamou para perto, e quem buscou a verdade, viu que há bem mais que o deserto. Justo e piedoso ancião teve o consolo em seus braços, e quem a luz procurava, pôde seguir os seus passos. Eis nossa paz, nosso bem! Que a humanidade se esmere em Teu olhar, gesto e passo, postos no amor que a prefere.",
         "title": "Deus nos espera em Belém",
-		"keys": "Deus, Belém, Pão, Bondade, Maria, José, Anjos, Alegria, Estrela, Verdade, Justo, Paz, Amor",
-		"tempo": "natal",
-		"parte": "comunhao"
+        "keys": [
+            "Deus",
+            "Belém",
+            "Pão",
+            "Bondade",
+            "Maria",
+            "Alegria",
+            "Justo",
+            "Paz",
+            "Amor"
+        ],
+        "tempo": "natal",
+        "parte": "comunhao"
     },
     {
         "lyric": "Noite feliz, noite feliz, Senhor, Deus de amor. Pobrezinho nasceu em Belém. Eis na lapa Jesus, nosso bem. Dorme em paz, ó Jesus. Eis que no ar vem cantar aos pastores, os anjos no céu anunciando a chegada de Deus. De Jesus salvador. Ó Jesus, Deus da luz. Quão afável é teu coração que quiseste nascer nosso irmão e a nós todos salvar.",
         "title": "Noite feliz",
-		"keys": "Amor, Belém, Anjo, Jesus, Salvação, Luz, Coração, Irmão, Pastores, Deus",
-		"tempo": "natal",
-		"parte": "final"
+        "keys": [
+            "Amor",
+            "Belém",
+            "Anjo",
+            "Jesus",
+            "Luz",
+            "Coração",
+            "Deus"
+        ],
+        "tempo": "natal",
+        "parte": "final"
     },
     {
         "lyric": "Quando completou-se o tempo De maria dar a luz, Não havia na cidade  Um lugar para Jesus. Não havia na cidade Um lugar para Jesus. E josé, de porta em porta, Nas famílias foi bater E pediu algum abrigo Pra Jesus que ia nascer.E pediu algum abrigo Pra Jesus que ia nascer. Encontrou portas fechadas Pouso não havia mais. E Jesus nasceu humilde, Num abrigo de animais. E Jesus nasceu humilde, Num abrigo de animais. Desce deus de sua glória E entre os homens quer viver. Não fechemos nossa porta Ao Senhor que vai nascer. Não fechemos nossa porta Ao Senhor que vai nascer.",
         "title": "Quando Completou-se o Tempo",
-		"keys": "Maria, José, Jesus, Animais, Humilde, Glória, Abrigo, Porta, Senhor",
-		"tempo": "natal",
-		"parte": "final"
+        "keys": [
+            "Maria",
+            "Jesus",
+            "Animais",
+            "Humilde",
+            "Glória"
+        ],
+        "tempo": "natal",
+        "parte": "final"
     },
     {
         "lyric": "Noite linda, noite bela, noite tão cheia de luz. Toda terra canta um hino com a chegada de Jesus. Noite feita de esperança, noite feita só de amor, pois nasceu o rei divino, Deus menino Salvador. Noite feita de bondade, noite de claro esplendor, salve a mãe virgem Maria que seu filho nos doou.",
         "title": "Noite linda, noite bela",
-		"keys": "Jesus, Maria, Esperança, Amor, Rei, Salvador, Bondade",
-		"tempo": "natal",
-		"parte": "final"
+        "keys": [
+            "Jesus",
+            "Maria",
+            "Esperança",
+            "Amor",
+            "Rei",
+            "Bondade"
+        ],
+        "tempo": "natal",
+        "parte": "final"
     },
-   {
+    {
         "lyric": "É Natal de Jesus, festa de alegria, de esperança e luz. Toda terra canta um hino, bendizendo o Salvador que em Belém se fez menino, dando exemplos de amor. Uma estrela diferente toda terra iluminou; foi Jesus que humanamente a nós todos se igualou. Nasceu pobre sem palácio este Rei que o trouxe o bem, quis apenas ensinar-nos a mensagem de Belém. É Natal de Jesus, festa de alegria, de esperança e luz.",
         "title": "É Natal de Jesus",
-		"keys": "Alegria, Esperança, Luz, Salvador, Belém, Amor, Rei, Mensagem",
-		"tempo": "natal",
-		"parte": "final"
+        "keys": [
+            "Alegria",
+            "Esperança",
+            "Luz",
+            "Belém",
+            "Amor",
+            "Rei"
+        ],
+        "tempo": "natal",
+        "parte": "final"
     },
-   {
+    {
         "lyric": "Vinde cristãos, vinde à porfia, hinos cantemos de louvor, hinos de paz e de alegria, que os anjos cantam ao Senhor. Foi nesta noite venturosa em que nasceu o Salvador, que anjos com voz harmoniosa deram a Deus o seu louvor. Vinde juntar-vos aos pastores, vinde com eles a Belém! Vinde, correndo pressurosos; o Salvador, enfim, nos vem!",
         "title": "Vinde cristãos, vinde à porfia",
-		"keys": "Alegria, Anjo, Benção, Belém, Louvor a Deus, Salvador",
-		"tempo": "natal",
-		"parte": "final"
+        "keys": [
+            "Alegria",
+            "Anjo",
+            "Benção",
+            "Belém",
+            "Louvor a Deus"
+        ],
+        "tempo": "natal",
+        "parte": "final"
     },
-   {
+    {
         "lyric": "Bendita e louvada seja no céu a divina luz. E nós também cá na terra louvemos à santa cruz. Os céus cantam a vitória de nosso Senhor Jesus. Cantemos também na terra louvores à santa cruz. Sustenta gloriosamente nos braços o bom Jesus, sinal de esperança e vida, o lenho da santa cruz. Humildes e confiantes levemos a nossa cruz seguindo sublime exemplo de nosso Senhor Jesus. É arma em qualquer perigo, é raio de eterna luz, bandeira vitoriosa, o santo sinal da cruz. Ao povo, aqui reunido, dai graça, perdão e luz. Salvai-nos, ó Deus clemente, em nome da santa cruz.",
         "title": "Bendita e louvada seja",
-		"keys": "Cruz, Esperança, Graça, Jesus, Luz, Perdão, Salvação",
-		"tempo": "quaresma",
-		"parte": "entrada"
+        "keys": [
+            "Cruz",
+            "Esperança",
+            "Graça",
+            "Jesus",
+            "Luz",
+            "Perdão"
+        ],
+        "tempo": "quaresma",
+        "parte": "entrada"
     },
-   {
+    {
         "lyric": "Eis o tempo de conversão, o dia da salvação. Ao Pai voltemos, juntos andemos. Os caminhos do Senhor são verdade, são amor. Dirigi os passos meus. Em vós espero, oh Senhor! Ele guia ao bom caminho quem errou e quer voltar. Ele é bom, fiel e justo. Ele busca e vem salvar. Viverei com o Senhor. Ele é o meu sustento. Eu confio, mesmo quando minha dor não mais aguento. Tem valor aos olhos Seus meu sofrer e meu morrer. Libertai o vosso servo e fazei-o reviver.",
         "title": "Eis o tempo de conversão",
-		"keys": "Conversão, Salvação, Pai, Caminho, Amor, Senhor, Esperança, Justiça, Salvação, Confiança, Dor, Libertação",
-		"tempo": "quaresma",
-		"parte": "entrada"
+        "keys": [
+            "Conversão",
+            "Pai",
+            "Caminho",
+            "Amor",
+            "Esperança",
+            "Libertação"
+        ],
+        "tempo": "quaresma",
+        "parte": "entrada"
     },
     {
         "lyric": "Senhor eis aqui o teu povo Que vem implorar teu perdão É grande o nosso pecado Porém é maior o teu coração. Sabendo que acolheste Zaqueu o cobrador E assim lhes devolvestes tua paz e teu amor Também nos colocamos ao lado dos que vão Buscar no teu altar a graça e o perdão Senhor eis aqui o teu povo Que vem implorar teu perdão É grande o nosso pecado Porém é maior o teu coração",
         "title": "Senhor Eis Aqui o Teu Povo",
-		"keys": "Perdão, Misericórdia, Oração, Altar, Comunhão, Amor, Redenção, Graça",
-		"tempo": "quaresma",
-		"parte": "entrada"
+        "keys": [
+            "Perdão",
+            "Misericórdia",
+            "Oração",
+            "Altar",
+            "Comunhão",
+            "Amor",
+            "Redenção",
+            "Graça"
+        ],
+        "tempo": "quaresma",
+        "parte": "entrada"
     },
     {
         "lyric": "Volta, meu povo, ao teu Senhor e exultará teu coração. Ele será teu condutor, tua esperança de salvação. Se confessas teu pecado, Ele é justo e compassivo. Cantarás purificado, os louvores do Deus vivo. Nossas vidas tão dispersas, nosso Deus as juntará, e seremos novo povo, Ele nos renovará. Se voltares ao Senhor, Ele a ti se voltará, pois imenso é Seu amor e jamais se acabará.",
         "title": "Volta, meu povo, ao teu Senhor",
-		"keys": "Oração, Esperança, Perdão, Conversão, Louvor a Deus, Misericórdia, Amor, Redenção, Coração, Comunidade, Renovo, Confissão",
-		"tempo": "quaresma",
-		"parte": "entrada"
+        "keys": [
+            "Oração",
+            "Esperança",
+            "Perdão",
+            "Conversão",
+            "Louvor a Deus",
+            "Misericórdia",
+            "Amor",
+            "Redenção",
+            "Coração",
+            "Comunidade",
+            "Renovo",
+            "Confissão"
+        ],
+        "tempo": "quaresma",
+        "parte": "entrada"
     },
     {
         "lyric": "Convertei-vos e crede no Evangelho Eis o tempo favorável Tirarei de vós um coração de pedra E porei em vós um coração de carne! Convertei-vos e crede no Evangelho Eis o tempo favorável Dar-vos-ei o meu espírito de vida Mudarei a escravidão em liberdade! Convertei-vos e crede no Evangelho Eis o tempo favorável Retomai de coração arrependido Porque Deus é compassivo e indulgente! Convertei-vos e crede no Evangelho Eis o tempo favorável",
         "title": "Convertei-vos e Crede No Evangelho",
-		"keys": "Arrependimento, Conversão, Deus, Espírito Santo, Liberdade, Misericórdia",
-		"tempo": "quaresma",
-		"parte": "entrada"
+        "keys": [
+            "Arrependimento",
+            "Conversão",
+            "Deus",
+            "Espírito Santo",
+            "Liberdade",
+            "Misericórdia"
+        ],
+        "tempo": "quaresma",
+        "parte": "entrada"
     },
     {
         "lyric": "Todo povo sofredor, o seu pranto esquecerá, pois o que plantou na dor na alegria colherá! Retornar do cativeiro fez-se sonho verdadeiro, sonho de libertação. Ao voltarem os exilados, Deus trazendo os deportados, libertados pra Sião! Nós ficamos tão felizes, nossa boca foi sorrisos, nossos lábios só canções! Nós vibramos de alegria, o Senhor fez maravilhas, publicaram as nações! Ó Senhor, Deus poderoso, não esqueçais o vosso povo a sofrer na escravidão. Nos livrai do cativeiro, qual chuvada de janeiro, alagando o sertão. Semeando na agonia, espalhando cada dia a semente do amanhã. A colheita é uma alegria, muito canto e euforia, é fartura, é Canaã.",
         "title": "Todo povo sofredor",
-		"keys": "Libertação, Alegria, Comunidade, Esperança, Redenção, Coração, Reino de Deus",
-		"tempo": "quaresma",
-		"parte": "ofertorio"
+        "keys": [
+            "Libertação",
+            "Alegria",
+            "Comunidade",
+            "Esperança",
+            "Redenção",
+            "Coração",
+            "Reino de Deus"
+        ],
+        "tempo": "quaresma",
+        "parte": "ofertorio"
     },
     {
         "lyric": "Escuta, Senhor, a voz do povo teu e dá-nos a tua salvação, que Cristo Jesus nos prometeu. Como outrora nossos pais, conduziste à boa terra. Vem, conduz a tua Igreja que caminha e em ti espera. Tua esperança nós vivemos, pois não é uma quimera. Se nos falta tua luz, na penumbra andaremos. Nossas vidas transformadas por tua Páscoa nós queremos, e a morte, o mal e a dor, para sempre venceremos. À verdade que liberta, vem, conduz, ó justiceiro. O abismo do pecado é o nosso cativeiro, mas em tua palavra temos o refúgio verdadeiro. Eis que estamos nesses dias de provarmos teu perdão. Nossas culpas tu apagas e nos tiras da prisão. Teu amor nós cantaremos em eterna gratidão.",
         "title": "Escuta, Senhor, a voz do povo",
-		"keys": "Esperança, Igreja, Jesus, Salvação, Luz, Páscoa, Amor, Perdão, Liberdade, Transformação, Gratidão, Justiça, Coração, Caminho, Comunidade",
-		"tempo": "quaresma",
-		"parte": "ofertorio"
+        "keys": [
+            "Esperança",
+            "Igreja",
+            "Jesus",
+            "Luz",
+            "Amor",
+            "Perdão",
+            "Liberdade",
+            "Gratidão",
+            "Coração",
+            "Caminho",
+            "Comunidade"
+        ],
+        "tempo": "quaresma",
+        "parte": "ofertorio"
     },
     {
         "lyric": "Vosso coração de pedra se converterá em novo coração. Tirarei de vosso peito vosso coração de pedra e no lugar colocarei novo coração de carne. Dentro em vós Eu plantarei o meu espírito. Amareis os meus preceitos e seguireis o meu amor.",
         "title": "Vosso coração de pedra",
-		"keys": "Conversão, Coração, Espírito Santo, Amor, Adoração, Promessa.",
-		"tempo": "quaresma",
-		"parte": "ofertorio"
+        "keys": [
+            "Conversão",
+            "Coração",
+            "Espírito Santo",
+            "Amor",
+            "Adoração"
+        ],
+        "tempo": "quaresma",
+        "parte": "ofertorio"
     },
     {
         "lyric": "Os cristãos tinham tudo em comum, dividiam seus bens com alegria. Deus espera que os dons de cada um se repartam com amor no dia a dia. Deus criou este mundo para todos. Quem tem mais é chamado a repartir com os outros o pão, a instrução e o progresso, fazer o irmão sorrir. Mas, acima de alguém que tem riquezas, está o homem que cresce em seu valor e, liberto, caminha para Deus, repartindo com todos o amor. No desejo de sempre repartirmos nossos bens, elevemos nossa voz ao trazer pão e vinho para o altar em que Deus vai se dar a todos nós.",
         "title": "os cristãos tinham tudo em comum",
-		"keys": "Alegria, Caridade, Comunhão, Eucaristia, Amor, Benção, Altar, Fraternidade, Pão, Louvor a Deus",
-		"tempo": "quaresma",
-		"parte": "ofertorio"
+        "keys": [
+            "Alegria",
+            "Caridade",
+            "Comunhão",
+            "Eucaristia",
+            "Amor",
+            "Benção",
+            "Altar",
+            "Pão",
+            "Louvor a Deus"
+        ],
+        "tempo": "quaresma",
+        "parte": "ofertorio"
     },
     {
         "lyric": "Se bendito, Senhor para sempre pelos frutos das nossas jornadas! Repartidos na mesa do Reino, anunciam a paz almejada! Senhor da vida, Tu és a nossa salvação! Ao prepararmos a Tua mesa, em Ti buscamos ressurreição! Se bendito, Senhor para sempre pelos mares, os rios e as fontes! Nos recordam a Tua justiça, que nos levam a um novo horizonte! Se bendito, Senhor para sempre pelas bênçãos qual chuva torrente! Tu fecundas o chão desta vida que abriga uma nova semente!",
         "title": "Se bendito, Senhor para sempre",
-		"keys": "Adoração, Benção, Comunhão, Esperança, Eucaristia, Graça, Louvor a Deus, Paz, Ressurreição, Reino de Deus",
-		"tempo": "quaresma",
-		"parte": "ofertorio"
-    },	
+        "keys": [
+            "Adoração",
+            "Benção",
+            "Comunhão",
+            "Esperança",
+            "Eucaristia",
+            "Graça",
+            "Louvor a Deus",
+            "Paz",
+            "Ressurreição",
+            "Reino de Deus"
+        ],
+        "tempo": "quaresma",
+        "parte": "ofertorio"
+    },
     {
         "lyric": "O povo de Deus no deserto andava Mas à sua frente alguém caminhava O povo de Deus era rico de nada Só tinha esperança e o pó da estrada Também sou teu povo, senhor E estou nessa estrada Somente a tua graça  Me basta e mais nadaO povo de Deus também vacilava Às vezes custava a crer no amor O povo de Deus, chorando rezava Pedia perdão e recomeçava Também sou teu povo, senhor E estou nessa estrada Perdoa se as vezes Não creio em mais nada O povo de Deus também teve fome E tu lhe mandaste o pão lá do céu O povo de Deus, cantando deu graças Provou teu amor, amor que não passa Também sou teu povo, senhor E estou nessa estrada Tu és alimento Na Longa Jornada O povo de Deus, ao longe avistou A terra querida que o amor preparouO povo de Deus corria e cantava E nos seus louvores, seu poder proclamava Também sou teu povo senhor E estou nessa estrada Cada dia mais perto Da terra esperada",
         "title": "O Povo de Deus",
-		"keys": "Adoração, Amor, Comunhão, Esperança, Oração, Perdão, Pão, Louvor a Deus, Graça, Caminho",
-		"tempo": "quaresma",
-		"parte": "comunhao"
+        "keys": [
+            "Adoração",
+            "Amor",
+            "Comunhão",
+            "Esperança",
+            "Oração",
+            "Perdão",
+            "Pão",
+            "Louvor a Deus",
+            "Graça",
+            "Caminho"
+        ],
+        "tempo": "quaresma",
+        "parte": "comunhao"
     },
     {
         "lyric": "Eu vim para que todos tenham vida, que todos tenham vida plenamente. Reconstrói a tua vida em comunhão com teu Senhor e com teu irmão. Onde está o teu irmão, eu estou presente nele. Eu passei fazendo o bem, eu curei todos os males. Hoje és minha presença junto a todo sofredor. Onde sofre o teu irmão, eu estou sofrendo nele. Entreguei a minha vida pela salvação de todos. Reconstrói, protege a vida de indefesos e inocentes. Onde morre o teu irmão, eu estou morrendo nele. Vim buscar e vim salvar o que estava já perdido. Busca, salva e reconduze a quem perdeu toda a esperança. Onde salvas teu irmão, tu me estás salvando nele.",
         "title": "Eu vim para que todos tenham vida",
-		"keys": "Comunhão, Amor, Misericórdia, Salvação, Vida, Esperança, Curas, Presença, Irmãos, Redentor, Reconciliação, Caridade, Justiça",
-		"tempo": "quaresma",
-		"parte": "comunhao"
+        "keys": [
+            "Comunhão",
+            "Amor",
+            "Misericórdia",
+            "Esperança",
+            "Curas",
+            "Irmãos",
+            "Redentor",
+            "Reconciliação",
+            "Caridade"
+        ],
+        "tempo": "quaresma",
+        "parte": "comunhao"
     },
     {
         "lyric": "Ele assumiu nossas dores, veio viver como nós, santificou nossas vidas cansadas, vencidas de tanta ilusão. Ele falou do teu Reino e te chamava de Pai, revelando tua imagem, que nos deu coragem de sermos irmãos. Ousamos chamar-te de Pai, ousamos chamar-te Senhor. Jesus nos mostrou que tu sentes e ficas presente onde mora o amor. Pai Nosso que estás no céu, Pai Nosso que estás aqui. Ele mostrou o caminho, veio dizer quem Tu és, disse com graça e com jeito que os nossos defeitos tu vais perdoar, e que a vida que deste queres com juros ganhar. Cuida de cada cabelo que vamos perdendo sem mesmo notar.",
         "title": "Ele assumiu nossas dores",
-		"keys": "Adoração, Amor, Comunhão, Confissão, Conversão, Coração, Deus, Esperança, Fé, Louvor a Deus, Misericórdia, Oração, Perdão, Reino de Deus, Sacerdote, Sacrifício",
-		"tempo": "quaresma",
-		"parte": "comunhao"
+        "keys": [
+            "Adoração",
+            "Amor",
+            "Comunhão",
+            "Confissão",
+            "Conversão",
+            "Coração",
+            "Deus",
+            "Esperança",
+            "Fé",
+            "Louvor a Deus",
+            "Misericórdia",
+            "Oração",
+            "Perdão",
+            "Reino de Deus",
+            "Sacerdote"
+        ],
+        "tempo": "quaresma",
+        "parte": "comunhao"
     },
     {
         "lyric": "Se o grão de trigo não morrer caindo em terra fica só; mas se morrer dentro da terra, dará frutos abundantes! Eu vos exalto, pois me livrastes e não deixastes rir de mim meus inimigos. Senhor, clamei por vós, pedindo ajuda, e vós, meu Deus, me devolvestes a saúde. Vós tirastes minha alma dos abismos e me salvastes, quando estava já morrendo. Por vós, agora eu clamo, e imploro a piedade do meu Deus. Escutai-me, Senhor Deus, tende piedade! Sede, Senhor, o meu abrigo protetor! Transformastes o meu pranto em uma festa, meus farrapos, em adornos de alegria. Cantai salmos ao Senhor, povo fiel, dai-lhe graças e invocai seu santo nome! Se à tarde vem o pranto visitar-nos, de manhã nos vem saudar a alegria.",
-		"title": "Se o grão de trigo não morrer",
-		"keys": "Eucaristia, Conversão, Oração, Misericórdia, Alegria, Redenção, Amor, Abismo, Adoração, Clamor, Saúde, Proteção, Louvor a Deus, Transformação, Frutos, Salvação",
-		"tempo": "quaresma",
-		"parte": "comunhao"
+        "title": "Se o grão de trigo não morrer",
+        "keys": [
+            "Eucaristia",
+            "Conversão",
+            "Oração",
+            "Misericórdia",
+            "Alegria",
+            "Redenção",
+            "Amor",
+            "Abismo",
+            "Adoração",
+            "Louvor a Deus"
+        ],
+        "tempo": "quaresma",
+        "parte": "comunhao"
     },
     {
         "lyric": "Agora o tempo se cumpriu, o reino já chegou. Irmãos, convertam-se e creiam firmes no evangelho! Feliz aquele homem que não anda conforme os conselhos dos perversos, quem não entra no caminho dos malvados nem junto aos zombadores vai sentar-se, mas encontra seu prazer na lei de Deus e a medita, dia e noite, sem cessar. Eis que ele é semelhante a uma árvore que à beira da torrente está plantada. Ela sempre dá seus frutos a seu tempo e jamais as suas folhas vão murchar. Pois Deus vigia o caminho dos eleitos, mas a estrada dos malvados leva à morte.",
-		"title": "Agora o tempo se cumpriu",
-		"keys": "Conversão, Discernimento, Evangelho, Fé, Justiça, Reino de Deus, Misericórdia, Oração, Palavra de Deus, Perseverança, Perdão, Redenção, Salvação.",
-		"tempo": "quaresma",
-		"parte": "comunhao"
+        "title": "Agora o tempo se cumpriu",
+        "keys": [
+            "Conversão",
+            "Discernimento",
+            "Evangelho",
+            "Fé",
+            "Reino de Deus",
+            "Misericórdia",
+            "Oração",
+            "Palavra de Deus",
+            "Perseverança",
+            "Perdão",
+            "Redenção"
+        ],
+        "tempo": "quaresma",
+        "parte": "comunhao"
     },
-
-   {
+    {
         "lyric": "Pecadores redimidos com o sangue do Senhor atendem, olham se existe dor igual à minha dor. Dolorosa, aguda espada transpassou-me o coração quando a morte do meu filho me predisse Simeão. Junto ao filho, para o Egito, eu fugi, com dor atroz quando Herodes o buscava, para dá-lo ao vil algoz. Quem dirá meu sentimento? Desolada me encontrei vendo o filho meu perdido. Por três dias o busquei. Que martírio na minha alma, encontrando meu Jesus no caminho do Calvário, arquejante sob a cruz. Mas, céu, terra, vede: dor maior não pode haver vendo a morte do meu filho, foi milagre eu não morrer! Contemplai meu sofrimento, minha angústia ao pé da cruz. Pela lança transpassado, vi meu filho, o meu Jesus. Oh, que dor mais cruciante, que suprema solidão ao levarem-no ao sepulcro, invadiu-me o coração.",
         "title": "Pecadores redimidos",
-		"keys": "Maria, Redenção, Sangue, Simeão, Coração, Dor, Morte, Jesus, Cruz, Calvário, Milagre, Sepulcro",
-		"tempo": "quaresma",
-		"parte": "final"
+        "keys": [
+            "Maria",
+            "Redenção",
+            "Coração",
+            "Morte",
+            "Jesus",
+            "Cruz",
+            "Milagre"
+        ],
+        "tempo": "quaresma",
+        "parte": "final"
     },
-   {
+    {
         "lyric": "Lembra, Senhor, o Teu amor fiel para sempre! Que os inimigos não triunfem sobre o povo! De suas angústias, ó Senhor, livra Tua gente! Senhor, meu Deus, a Ti elevo a minha alma, em Ti confio: que eu não seja envergonhado. Não se envergonhe quem em Ti põe sua esperança, mas, sim, quem nega por um nada sua fé! Mostra-me, Senhor, os Teus caminhos, e faz-me conhecer a Tua estrada! Tua verdade me orienta e me conduz, porque és o Deus da minha salvação! Recorda, Senhor meu Deus, Tua ternura e a Tua compaixão que são eternas. Não recordes meus pecados quando jovem, nem te lembres de minhas faltas e delitos. O Senhor é piedade e retidão, e reconduz ao bom caminho os pecadores. Ele dirige os humildes na justiça, e aos pobres Ele ensina o Seu caminho. Verdade e amor são os caminhos do Senhor para quem segue Sua aliança e Seus preceitos. Ó Senhor, por Teu nome e Tua honra, perdoa os meus pecados que são tantos.",
         "title": "Lembra, Senhor, o Teu amor",
-		"keys": "Oração, Misericórdia, Esperança, Perdão, Amor, Confiança, Pecado, Humilde, Aliança, Justiça, Caminho, Salvação, Fé.",
-		"tempo": "quaresma",
-		"parte": "final"
+        "keys": [
+            "Oração",
+            "Misericórdia",
+            "Esperança",
+            "Perdão",
+            "Amor",
+            "Humilde",
+            "Aliança",
+            "Caminho"
+        ],
+        "tempo": "quaresma",
+        "parte": "final"
     },
-   {
+    {
         "lyric": "Senhor, tende compaixão do vosso povo que acolhe a conversão. Reacendei em nós a chama batismal. Oh! Dá-nos luz e vosso perdão. Tende piedade, ó meu Deus, misericórdia! Na imensidão de vosso amor, purificai-me! Do meu pecado, todo inteiro, vem lavar-me e apagai completamente a minha culpa. Eu reconheço toda a minha iniquidade, o meu pecado está sempre à minha frente, foi contra vós, só contra vós que eu pequei, e pratiquei o que é mau aos vossos olhos! Criai em mim um coração que seja puro, dai-me de novo um espírito decidido. Ó Senhor, não me afasteis de vossa face, nem retireis de mim o vosso santo espírito. Dai-me de novo a alegria de ser salvo e confirmai-me com espírito generoso! Abri meus lábios, ó Senhor, para cantar e minha boca anunciará vosso louvor!",
         "title": "Senhor, tende compaixão",
-		"keys": "Oração, Conversão, Misericórdia, Perdão, Luz, Batismo, Coração, Espírito Santo, Alegria, Louvor a Deus",
-		"tempo": "quaresma",
-		"parte": "final"
+        "keys": [
+            "Oração",
+            "Conversão",
+            "Misericórdia",
+            "Perdão",
+            "Luz",
+            "Batismo",
+            "Coração",
+            "Espírito Santo",
+            "Alegria",
+            "Louvor a Deus"
+        ],
+        "tempo": "quaresma",
+        "parte": "final"
     },
-   {
+    {
         "lyric": "Vitória, tu reinarás. Ó cruz, tu nos salvarás. Nós vamos à cidade e lá Eu irei sofrer, serei crucificado, mas hei de reviver. Vocês não são do mundo, do mundo os escolhi. Se o mundo os odeia, primeiro odiou a Mim. Vocês vão ter no mundo tristezas e aflição, mas Eu venci o mundo, coragem e vencerão. Se o grão que cai na terra não morre, fica só; se morre germina e cresce, seu fruto será maior. Pois era necessário um só sofrer por todos e, assim, os separados formarem um só povo",
         "title": "Vitória, tu reinarás.",
-		"keys": "Adoração, Cruz, Esperança, Fé, Morte, Ressurreição, Comunhão, Vitória, Perseverança",
-		"tempo": "quaresma",
-		"parte": "final"
+        "keys": [
+            "Adoração",
+            "Cruz",
+            "Esperança",
+            "Fé",
+            "Morte",
+            "Ressurreição",
+            "Comunhão",
+            "Perseverança"
+        ],
+        "tempo": "quaresma",
+        "parte": "final"
     },
-  {
+    {
         "lyric": "Eu confio em nosso Senhor com fé, esperança e amor. Creio em Deus, uno, trino e eterno, que criou o céu, a terra e o mar. Sou católico, crente e sincero, a meu Deus aprendi a adorar. Espero salvar minha alma, com o auxílio da graça de Deus. Cumprirei sempre os Dez Mandamentos, que abrem as portas do céu. Amo a Deus sobre todas as coisas e lhe dou este meu coração. Amo o próximo como a mim mesmo, pois o próximo é nosso irmão. Nesta Igreja de Cristo infalível, a quem amo com grande ardor, me alimento do Corpo e do Sangue do eterno e divino Senhor. Confio em Nossa Senhora e lhe peço eficaz proteção, pois minh'alma tranquila descansa, repousando no seu coração.",
         "title": "Eu confio em nosso Senhor",
-		"keys": "Adoração, Amor, Comunhão, Confiança, Esperança, Fé, Graça, Igreja, Mandamentos, Misericórdia, Oração, Paz, Ressurreição",
-		"tempo": "quaresma",
-		"parte": "final"
+        "keys": [
+            "Adoração",
+            "Amor",
+            "Comunhão",
+            "Esperança",
+            "Fé",
+            "Graça",
+            "Igreja",
+            "Mandamentos",
+            "Misericórdia",
+            "Oração",
+            "Paz",
+            "Ressurreição"
+        ],
+        "tempo": "quaresma",
+        "parte": "final"
     },
     {
         "lyric": "Cristo venceu, aleluia!  ressuscitou, aleluia! O Pai lhe deu glória e poder, eis nosso canto, aleluia!1. Este é o dia em que o Amor venceu brilhante luz iluminou as trevas Nós fomos salvos para sempre2. Suave aurora veio anunciando que nova era foi inauguradaNós fomos salvos para sempre3. No coração de todos nós renasce a esperança de um novo tempoNós fomos salvos para sempre",
         "title": "O Cristo Venceu! Aleluia!",
-		"keys": "Adoração, Alegria, Amor, Esperança, Luz, Ressurreição, Salvação",
-		"tempo": "pascoa",
-		"parte": "entrada"
+        "keys": [
+            "Adoração",
+            "Alegria",
+            "Amor",
+            "Esperança",
+            "Luz",
+            "Ressurreição"
+        ],
+        "tempo": "pascoa",
+        "parte": "entrada"
     },
     {
         "lyric": "Cristo ressuscitou, aleluia! Venceu a morte com amor. Tendo vencido a morte, o Senhor ficará para sempre entre nós para manter viva a chama do amor que reside em cada cristão a caminho do Pai. O Senhor nos abriu horizonte feliz, pois nosso peregrinar pela face do mundo terá seu final lá na casa do Pai. Aleluia!",
-		"title": "Cristo ressuscitou, alelui",
-		"keys": "Alegria, Amor, Comunhão, Esperança, Morte, Ressurreição, Pai, Peregrinação",
-		"tempo": "pascoa",
-		"parte": "entrada"
+        "title": "Cristo ressuscitou, alelui",
+        "keys": [
+            "Alegria",
+            "Amor",
+            "Comunhão",
+            "Esperança",
+            "Morte",
+            "Ressurreição",
+            "Pai",
+            "Peregrinação"
+        ],
+        "tempo": "pascoa",
+        "parte": "entrada"
     },
     {
         "lyric": "Ressuscitastes, ó Bom Pastor, e destes a vida por vossas ovelhas! Nós somos o vosso povo e o vosso rebanho! Pelas águas do batismo nos abristes a jornada rumo à terra prometida. Exultantes pelo dom da vossa Páscoa, nossa vida foi da graça revestida. Afugentas toda a sede e toda a fome, reunindo o rebanho no aprisco. Sois a vida que renova o universo: verdadeiro, bom e justo - sois o Cristo. Aleluias entoamos nesta terra, pois o Reino se firmou em nosso meio. Vossa luz bem dissipou as nossas trevas, indicando qual o vosso pastoreio.",
-		"title": "Ressuscitastes, ó Bom Pastor",
-		"keys": "Adoração, Água, Batismo, Comunhão, Cristo, Cruz, Eucaristia, Esperança, Luz, Páscoa, Reino de Deus, Ressurreição, Sacerdote, Sacrifício, Vida",
-		"tempo": "pascoa",
-		"parte": "entrada"
+        "title": "Ressuscitastes, ó Bom Pastor",
+        "keys": [
+            "Adoração",
+            "Água",
+            "Batismo",
+            "Comunhão",
+            "Cristo",
+            "Cruz",
+            "Eucaristia",
+            "Esperança",
+            "Luz",
+            "Reino de Deus",
+            "Ressurreição",
+            "Sacerdote"
+        ],
+        "tempo": "pascoa",
+        "parte": "entrada"
     },
     {
         "lyric": "O Senhor ressurgiu, aleluia, aleluia! É o Cordeiro Pascal, aleluia, aleluia! Imolado por nós, aleluia, aleluia! É o Cristo, o Senhor, ele vive e venceu, aleluia! O Cristo, Senhor ressuscitou, a nossa esperança realizou, vencida a morte para sempre, triunfa a vida eternamente! O Cristo remiu a seus irmãos, ao Pai os conduziu por sua mão, no Espírito Santo unida esteja a família de Deus, que é a Igreja!",
-		"title": "O Senhor ressurgiu, aleluia",
-		"keys": "Ressurreição, Cordeiro, Cristo, Esperança, Família, Igreja, Louvor a Deus",
-		"tempo": "pascoa",
-		"parte": "entrada"
+        "title": "O Senhor ressurgiu, aleluia",
+        "keys": [
+            "Ressurreição",
+            "Cordeiro",
+            "Cristo",
+            "Esperança",
+            "Família",
+            "Igreja",
+            "Louvor a Deus"
+        ],
+        "tempo": "pascoa",
+        "parte": "entrada"
     },
     {
         "lyric": "Jesus Cristo ontem, hoje e sempre! Ele é a imagem do Deus invisível, o primogênito da criação. Tudo o que existe foi nele criado, nele encontramos a redenção. Ele é a cabeça da igreja, seu corpo, o primogênito entre os mortais, que nele habite a vida mais plena, foi do agrado do nosso Pai. Reconciliou todas as criaturas, dando-nos paz pelo sangue da cruz. Deus nos tirou do império das trevas e nos chamou a viver na luz. Ontem, hoje e sempre, aleluia!",
-		"title": "Jesus Cristo ontem, hoje e sempre",
-		"keys": "Cristo, Redenção, Igreja, Paz, Luz, Primogênito, Reconcili ação, Sacrifício, Alegria",
-		"tempo": "pascoa",
-		"parte": "entrada"
+        "title": "Jesus Cristo ontem, hoje e sempre",
+        "keys": [
+            "Cristo",
+            "Redenção",
+            "Igreja",
+            "Paz",
+            "Luz",
+            "Primogênito",
+            "Alegria"
+        ],
+        "tempo": "pascoa",
+        "parte": "entrada"
     },
     {
         "lyric": "Senhor, vencestes a morte. Fizestes brilhar a vida, para sempre! O Cristo ressuscitou dentre os mortos, primícias daqueles que adormeceram. A morte foi vencida pela vida. Ó morte, onde está tua vitória? Graças ao Deus Salvador para sempre, por Cristo, Senhor nosso e Messias.",
-		"title": "Senhor, vencestes a morte",
-		"keys": "Ressurreição, Vida, Cristo, Morte, Graça, Messias, Deus, Salvador, Vitória.",
-		"tempo": "pascoa",
-		"parte": "ofertorio"
+        "title": "Senhor, vencestes a morte",
+        "keys": [
+            "Ressurreição",
+            "Cristo",
+            "Morte",
+            "Graça",
+            "Messias",
+            "Deus"
+        ],
+        "tempo": "pascoa",
+        "parte": "ofertorio"
     },
     {
         "lyric": "A terra apavorada emudeceu quando Deus se levantou para julgar e libertar os oprimidos desta terra. Sede bendito, Senhor Deus de nossos pais, a vós louvor, honra e glória eternamente. Sede bendito, nome santo e glorioso, a vós louvor, honra e glória eternamente. No templo santo onde refulge a vossa glória, a vós louvor, honra e glória eternamente. E em vosso trono de poder vitorioso, a vós louvor, honra e glória eternamente.",
-		"title": "A terra apavorada emudeceu",
-		"keys": "Adoração, Benção, Comunhão, Deus, Glória, Louvor a Deus, Misericórdia, Oração, Poder, Promessa, Redentor, Ressurreição, Sacrifício",
-		"tempo": "pascoa",
-		"parte": "ofertorio"
+        "title": "A terra apavorada emudeceu",
+        "keys": [
+            "Adoração",
+            "Benção",
+            "Comunhão",
+            "Deus",
+            "Glória",
+            "Louvor a Deus",
+            "Misericórdia",
+            "Oração",
+            "Promessa",
+            "Redentor",
+            "Ressurreição"
+        ],
+        "tempo": "pascoa",
+        "parte": "ofertorio"
     },
     {
         "lyric": "As nossas ofertas de vinho e de pão celebram a glória da ressurreição, a glória da ressurreição. O grão que morrera no seio do chão renasce no trigo tornando-se pão. A uva amassada, pisada, moída ressurge no vinho, sustento da vida. O pão e o vinho são hoje memória do novo cordeiro na sua vitória, sinais da aliança da terra e dos céus no corpo e no sangue do Filho de Deus. Ao Pai ofertamos também nossa vida, o chão que pisamos, a relva florida, os frutos da terra por nós cultivados se tornem o corpo do ressuscitado.",
-		"title": "As nossas ofertas de vinho",
-		"keys": "Eucaristia, Comunhão, Ressurreição, Sacrifício, Aliança, Corpo, Filho de Deus, Louvor a Deus, Vida",
-		"tempo": "pascoa",
-		"parte": "ofertorio"
+        "title": "As nossas ofertas de vinho",
+        "keys": [
+            "Eucaristia",
+            "Comunhão",
+            "Ressurreição",
+            "Aliança",
+            "Corpo",
+            "Filho de Deus",
+            "Louvor a Deus"
+        ],
+        "tempo": "pascoa",
+        "parte": "ofertorio"
     },
     {
         "lyric": "Bendito sejas, ó Rei da glória, ressuscitado, Senhor da Igreja. Aqui trazemos as nossas ofertas. Vê com bons olhos nossas humildes ofertas. Tudo o que temos seja pra ti, ó Senhor. Vidas se encontram no altar de Deus. Gente se doa, dom que se imola. Irmãos da terra, irmãos do céu. Juntos cantemos glória ao Senhor.",
-		"title": "Bendito sejas, ó Rei da glória",
-		"keys": "Adoração, Altar, Comunhão, Louvor a Deus, Misericórdia, Oferta, Reino de Deus, Ressurreição, Sacrifício",
-		"tempo": "pascoa",
-		"parte": "ofertorio"
+        "title": "Bendito sejas, ó Rei da glória",
+        "keys": [
+            "Adoração",
+            "Altar",
+            "Comunhão",
+            "Louvor a Deus",
+            "Misericórdia",
+            "Reino de Deus",
+            "Ressurreição"
+        ],
+        "tempo": "pascoa",
+        "parte": "ofertorio"
     },
     {
         "lyric": "Cristo é o dom do Pai que se entregou por nós aleluia bendito seja o nosso Deus dai graças a Deus pois Ele é bom eterno por nós é seu amor coragem e força Ele nos dá fazendo-se nosso Salvador eu não morrerei mas viverei e assim louvarei o meu Senhor",
-		"title": "Cristo é o dom do Pai",
-		"keys": "Adoração, Amor, Benção, Comunhão, Deus, Eucaristia, Graça, Louvor a Deus, Misericórdia, Oração, Redentor, Ressurreição",
-		"tempo": "pascoa",
-		"parte": "ofertorio"
+        "title": "Cristo é o dom do Pai",
+        "keys": [
+            "Adoração",
+            "Amor",
+            "Benção",
+            "Comunhão",
+            "Deus",
+            "Eucaristia",
+            "Graça",
+            "Louvor a Deus",
+            "Misericórdia",
+            "Oração",
+            "Redentor",
+            "Ressurreição"
+        ],
+        "tempo": "pascoa",
+        "parte": "ofertorio"
     },
     {
         "lyric": "A mesa tão grande e vazia de amor e de paz. Aonde há luxo de alguns, alegria não há jamais. A mesa da Eucaristia nos quer ensinar, que a ordem de Deus nosso Pai é o pão partilhar. Pão em todas as mesas, da Páscoa a nova certeza. A festa haverá e o povo a cantar, aleluia! As forças da morte, a injustiça e a ganância de ter, agindo naqueles que impedem ao pobre viver. Sem terra, trabalho e comida a vida não há. Quem deixa assim e não age, a festa não vai celebrar. Irmãos, companheiros na luta, vamos dar as mãos na grande corrente do amor, na feliz comunhão. Unindo a peleja e a certeza, vamos construir, aqui na terra, o projeto de Deus todo povo a sorrir. Bendito o Ressuscitado, Jesus vencedor. No pão partilhado a presença Ele nos deixou. Bendita é a vida nascida de quem se arriscou na luta pra ver triunfar neste mundo o amor.",
-		"title": "A mesa tão grande e vazia",
-		"keys": "Eucaristia, Comunhão, Amor, Pão, Justiça, Misericórdia, Alegria, Vida, Ressurreição, Companheirismo, Redenção",
-		"tempo": "pascoa",
-		"parte": "comunhao"
+        "title": "A mesa tão grande e vazia",
+        "keys": [
+            "Eucaristia",
+            "Comunhão",
+            "Amor",
+            "Pão",
+            "Misericórdia",
+            "Alegria",
+            "Ressurreição",
+            "Redenção"
+        ],
+        "tempo": "pascoa",
+        "parte": "comunhao"
     },
     {
         "lyric": "Por sua morte, a morte viu o fim no sangue derramado a vida renasceu. Seu pé ferido nova estrada abriu e neste homem, o homem enfim se descobriu. Meu coração me diz: o amor me amou e se entregou por mim. Jesus ressuscitou! Passou a escuridão, o sol nasceu! A vida triunfou, Jesus ressuscitou! Jesus me amou e se entregou por mim. Os homens todos podem o mesmo repetir. Não temeremos mais a morte e a dor. O coração humano em Cristo descansou.",
-		"title": "Por sua morte, a morte viu o fim",
-		"keys": "Adoração, Amor, Coração, Cruz, Eucaristia, Esperança, Jesus, Morte, Ressurreição, Salvação",
-		"tempo": "pascoa",
-		"parte": "comunhao"
+        "title": "Por sua morte, a morte viu o fim",
+        "keys": [
+            "Adoração",
+            "Amor",
+            "Coração",
+            "Cruz",
+            "Eucaristia",
+            "Esperança",
+            "Jesus",
+            "Morte",
+            "Ressurreição"
+        ],
+        "tempo": "pascoa",
+        "parte": "comunhao"
     },
     {
         "lyric": "Vós sois meu pastor, ó Senhor. Nada me faltará, se me conduzis. Em verdes pastagens me leva a repousar. Em fontes bem tranquilas, as forças recobrar. Por justos caminhos, meu Deus, vem me guiar. De todos os perigos, meu Deus, vem me livrar. Meu Deus junto a mim, o mal não temerei. Seguro em seu cajado, tranquilo eu estarei. Me preparais a mesa, perante o opressor. Me perfumais a fronte, minha taça transbordou. Felicidade e amor, sem fim, me seguirão. Um dia em vossa casa, meus dias passarão.",
-		"title": "Vós sois meu pastor",
-		"keys": "Adoração, Amor, Benção, Comunhão, Confiança, Fé, Graça, Louvor a Deus, Misericórdia, Oração, Paz, Pastor, Redenção, Reliquias, Segurança, Unidade",
-		"tempo": "pascoa",
-		"parte": "comunhao"
+        "title": "Vós sois meu pastor",
+        "keys": [
+            "Adoração",
+            "Amor",
+            "Benção",
+            "Comunhão",
+            "Fé",
+            "Graça",
+            "Louvor a Deus",
+            "Misericórdia",
+            "Oração",
+            "Paz",
+            "Pastor",
+            "Redenção"
+        ],
+        "tempo": "pascoa",
+        "parte": "comunhao"
     },
     {
         "lyric": "Pelos prados e campinas, verdejantes, eu vou. É o Senhor que me leva a descansar. Junto às fontes de águas puras, repousantes, eu vou. Minhas forças o Senhor vai animar. Nos caminhos mais seguros, junto d'Ele, eu vou. E pra sempre o Seu nome eu honrarei. Se eu encontro mil abismos, nos caminhos, eu vou. Segurança sempre tenho em Suas mãos. Ao banquete em sua casa, muito alegre, eu vou. Um lugar em Sua mesa me preparou. Ele unge minha fronte e me faz ser feliz. E transborda a minha taça em Seu amor. Bem a frente do inimigo, confiante, eu vou. Tenho sempre o Senhor junto de mim. Seu cajado me protege e eu jamais temerei. Sempre junto do Senhor eu estarei.",
-		"title": "Pelos prados e campinas",
-		"keys": "Adoração, Alegria, Água, Banquete messiânico, Benção, Comunhão, Esperança, Luz, Misericórdia, Oração, Paz, Promessa, Redentor, Ressurreição.",
-		"tempo": "pascoa",
-		"parte": "comunhao"
+        "title": "Pelos prados e campinas",
+        "keys": [
+            "Adoração",
+            "Alegria",
+            "Água",
+            "Banquete messiânico",
+            "Benção",
+            "Comunhão",
+            "Esperança",
+            "Luz",
+            "Misericórdia",
+            "Oração",
+            "Paz",
+            "Promessa",
+            "Redentor"
+        ],
+        "tempo": "pascoa",
+        "parte": "comunhao"
     },
     {
         "lyric": "Fica conosco, Senhor, é tarde e a noite já vem! Fica conosco, Senhor, somos Teus seguidores também! Andavam pensando, tão tristes, de Jerusalém a Emaús, os dois seguidores de Cristo, logo após o episódio da cruz. Enquanto assim vão conversando, Jesus se achegou devagar: de que vocês vão palestrando? E ao Senhor não puderam enxergar. Não sabes então, forasteiro, aquilo que aconteceu? Foi preso Jesus Nazareno, redentor que esperou Israel. Os chefes a morte tramaram do santo profeta de Deus; o justo foi crucificado, a esperança do povo morreu. Três dias enfim se passaram, foi tudo uma doce ilusão; um susto as mulheres pregaram: não encontraram seu corpo mais não. Disseram que ele está vivo, que disso souberam em visão. Estava o sepulcro vazio, mas do mestre ninguém sabe não. Jesus foi então relembrando: pro Cristo na glória entrar, profetas já tinham falado, sofrimentos devia enfrentar. E pelo caminho afora ardia-lhes o coração: falava-lhes das Escrituras, explicando a sua missão. Chegando, afinal, ao destino, Jesus fez que ia passar, mas eles demais insistiram: vem, Senhor, vem conosco ficar! Sentado com eles à mesa, deu graças e o pão repartiu; dos dois foi tão grande a surpresa: Jesus Cristo, o Senhor ressurgiu.",
-		"title": "Fica conosco, Senhor",
-		"keys": "Adoração, Comunhão, Esperança, Jesus, Luz, Ressurreição, Sacrifício",
-		"tempo": "pascoa",
-		"parte": "comunhao"
+        "title": "Fica conosco, Senhor",
+        "keys": [
+            "Adoração",
+            "Comunhão",
+            "Esperança",
+            "Jesus",
+            "Luz",
+            "Ressurreição"
+        ],
+        "tempo": "pascoa",
+        "parte": "comunhao"
     },
     {
         "lyric": "Este é o dia do Senhor, dia de festa e de alegria. Cristo Jesus ressuscitou, venceu a morte, nos libertou. Aleluia!",
-		"title": "Este é o dia",
-		"keys": "Alegria, Comunhão, Eucaristia, Festa, Jesus, Louvor a Deus, Ressurreição, Libertação",
-		"tempo": "pascoa",
-		"parte": "final"
+        "title": "Este é o dia",
+        "keys": [
+            "Alegria",
+            "Comunhão",
+            "Eucaristia",
+            "Jesus",
+            "Louvor a Deus",
+            "Ressurreição",
+            "Libertação"
+        ],
+        "tempo": "pascoa",
+        "parte": "final"
     },
     {
         "lyric": "O Senhor ressuscitou, aleluia! Não há tristeza e nem temor, aleluia! O caminho que Ele traçou, aleluia! Nos convida a caminhar, aleluia! Sua palavra é de paz, aleluia! Vem a todos confortar, aleluia! Sua voz me acalmou, aleluia! Da incerteza me livrou, aleluia! O Senhor nos visitou, aleluia! Nossa casa iluminou, aleluia! As tormentas sobre o mar, aleluia! Vamos com Ele passar, aleluia!",
-		"title": "O Senhor ressuscitou, aleluia",
-		"keys": "Ressurreição, Louvor a Deus, Esperança, Paz, Caminho, Palavra de Deus, Consolação",
-		"tempo": "pascoa",
-		"parte": "final"
+        "title": "O Senhor ressuscitou, aleluia",
+        "keys": [
+            "Ressurreição",
+            "Louvor a Deus",
+            "Esperança",
+            "Paz",
+            "Caminho",
+            "Palavra de Deus"
+        ],
+        "tempo": "pascoa",
+        "parte": "final"
     },
     {
         "lyric": "Deus cumpriu a promessa a nossos pais, ressuscitando dos mortos a Jesus. Por Deus mesmo ele foi constituído juiz dos vivos e dos mortos. Aleluia. Ó Senhor nosso Deus, como é grande vosso nome por todo o universo! Desdobraste nos céus vossa glória com grandeza, esplendor, majestade. O perfeito louvor vos é dado pelos lábios dos mais pequeninos, de crianças que a mãe amamenta. Eis a força que opondes aos maus, reduzindo o inimigo ao silêncio. Contemplando estes céus que plasmastes e formastes com dedos de artista; vendo a lua e estrelas brilhantes, perguntamos: Senhor, que é o homem, para dele assim vos lembrardes e o tratardes com tanto carinho? Pouco abaixo de Deus o fizestes, coroando-o de glória e esplendor; vós lhe destes poder sobre tudo, vossas obras aos pés lhe pusestes: as ovelhas, os bois, os rebanhos, todo o gado e as feras da mata; passarinhos e peixes dos mares, todo ser que se move nas águas.",
-		"title": "Deus cumpriu a promessa",
-		"keys": "Deus, Promessa, Ressurreição, Glória, Criador, Autoridade, Criatura, Cuidado, Poder, Inimigos, Bondade, Grandeza",
-		"tempo": "pascoa",
-		"parte": "final"
+        "title": "Deus cumpriu a promessa",
+        "keys": [
+            "Deus",
+            "Promessa",
+            "Ressurreição",
+            "Glória",
+            "Autoridade",
+            "Bondade"
+        ],
+        "tempo": "pascoa",
+        "parte": "final"
     },
     {
         "lyric": "Rainha do céu, alegrai-vos, aleluia, pois o Senhor que merecestes trazer em vosso seio, aleluia, ressuscitou, como disse, aleluia; rogai a Deus por nós, aleluia.",
-		"title": "Rainha do céu",
-		"keys": "Rainha, Alegria, Ressurreição, Oração, Comunhão, Deus",
-		"tempo": "pascoa",
-		"parte": "final"
+        "title": "Rainha do céu",
+        "keys": [
+            "Alegria",
+            "Ressurreição",
+            "Oração",
+            "Comunhão",
+            "Deus"
+        ],
+        "tempo": "pascoa",
+        "parte": "final"
     },
     {
         "lyric": "Ó morte, onde estás, ó morte? Quem és tu ó morte? Qual a tua vitória? Alegria, irmãos alegria, nós hoje cantamos: o Senhor ressurgiu! Com Cristo, nós ressuscitamos, juntos proclamamos: o Senhor nos salvou! Ressuscitou, ressuscitou, ressuscitou! Aleluia!",
-		"title": "Ó morte, onde estás",
-		"keys": "Ressurreição, Morte, Alegria, Salvação, Comunhão, Esperança",
-		"tempo": "pascoa",
-		"parte": "final"
+        "title": "Ó morte, onde estás",
+        "keys": [
+            "Ressurreição",
+            "Morte",
+            "Alegria",
+            "Comunhão",
+            "Esperança"
+        ],
+        "tempo": "pascoa",
+        "parte": "final"
     }
 ]
